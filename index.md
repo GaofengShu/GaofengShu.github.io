@@ -1,7 +1,22 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+欢迎来到此博客，这里将记录我的兴趣和思考。
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## 专业技能
+### 信号处理（数字信号处理、随机信号）
+### 电磁辐射（天线设计、雷达系统）
+### 数学
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## 软件
+### Matlab
+### LaTeX
+公式测试 $E=mc^2$
+行间公式
+$$
+
+$$
+### 算法
+
+## 娱乐
+### 足球
+### 其他
