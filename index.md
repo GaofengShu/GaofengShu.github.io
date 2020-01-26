@@ -1,6 +1,6 @@
 欢迎来到此博客，这里将记录我的兴趣和思考。
 
-![Image of fast.ai logo](images/logo.png)
+![test image](images/logo.png)
 
 ## 专业技能
 ### 信号处理（数字信号处理、随机信号）
@@ -10,15 +10,6 @@
 ## 软件
 ### Matlab
 ### $\LaTeX{}$
-公式测试 $E=mc^2$
-行间公式
-
-$$
-a^2+b^2=c^2
-$$
-
-行不行？
-
 ### 算法
 
 ## 娱乐
