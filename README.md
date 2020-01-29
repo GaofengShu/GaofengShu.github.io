@@ -1,3 +1,33 @@
-# Your blog
+欢迎来到此博客，这里将记录我的兴趣和思考。
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+---
+
+## 专业技能
+
+### 信号处理（数字信号处理、随机信号）
+
+### 电磁辐射（天线设计、雷达系统）
+
+### 数学
+
+---
+
+## 软件
+
+### Matlab
+
+### $\LaTeX{}$
+
+### 算法
+
+---
+
+## 娱乐
+
+### 足球
+
+### 其他
+
+---
+
+## 其他
