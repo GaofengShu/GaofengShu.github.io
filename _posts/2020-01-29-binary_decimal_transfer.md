@@ -97,5 +97,4 @@ end
 - [decimal2binary](https://github.com/GaofengShu/GaofengShu.github.io/blob/master/codes/decimal2binary.m)
 - [binary2decimal](https://github.com/GaofengShu/GaofengShu.github.io/blob/master/codes/binary2decimal.m)
 
-[^]: 
 
