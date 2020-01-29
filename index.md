@@ -12,7 +12,7 @@
 ## 软件
 ### Matlab
 
-- [数值二进制和十进制之间的转换](https://gaofengshu.github.io/2020/01/14/binary_decimal_transfer.html)
+- [数值二进制和十进制之间的转换](https://gaofengshu.github.io/2020/01/29/binary_decimal_transfer.html)
 
 ### $\LaTeX{}$
 ### 算法
