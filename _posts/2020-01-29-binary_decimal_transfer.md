@@ -6,6 +6,7 @@
 
 近来混迹于[MATLAB 中文论坛](https://www.ilovematlab.cn/forum.php)，帮助解决 matlab 新手各种各样的问题。常见的问题是，他们对于 matlab 计算的不精确结果表示疑惑。比如[这个问题](https://www.ilovematlab.cn/thread-589855-1-1.html)：
 > 解线性方程组，解为什么不精确
+
 ```matlab
 clear
 A=[2 3 4;3 5 2;4 3 30];b=[6;5;32];
