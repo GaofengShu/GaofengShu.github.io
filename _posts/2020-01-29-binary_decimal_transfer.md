@@ -53,7 +53,7 @@
 二进制小数 b
 计数器 c=0
 while d 不等于 0 或 其他终止条件
-	c = 1
+	c = c+1
 	b(c) = floor(d*2)
 	d = d*2 - b
 end
