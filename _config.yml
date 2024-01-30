@@ -13,7 +13,7 @@ name                     : &name "Gaofeng Shu"
 description              : &description "Gaofeng Shu received the B.S. degree in electromagnetic wave propagation and antenna from Wuhan University, Wuhan, Hubei, China, in 2015, and the Ph.D. degree in communication and information system from the Department of Space Microwave Remote Sensing Systems, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China, in 2021. From 2019 to 2020, he studied as a visiting Ph.D. student with the Università degli Studi di Roma “La Sapienza,” Rome, Italy. In 2021, he joined the School of Computer and Information Engineering, Henan University, Kaifeng, China. His research interests include synthetic aperture radar (SAR) imaging, orbital angular momentum, forward-looking radar imaging, and deep space exploration."
 url                      : https://GaofengShu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "GaofengShu/GaofengShu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Gaofeng Shu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Gaofeng Shu received the B.S. degree in electromagnetic wave propagation and antenna from Wuhan University, Wuhan, Hubei, China, in 2015, and the Ph.D. degree in communication and information system from the Department of Space Microwave Remote Sensing Systems, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China, in 2021. From 2019 to 2020, he studied as a visiting Ph.D. student with the Università degli Studi di Roma “La Sapienza,” Rome, Italy. In 2021, he joined the School of Computer and Information Engineering, Henan University, Kaifeng, China. His research interests include synthetic aperture radar (SAR) imaging, orbital angular momentum, forward-looking radar imaging, and deep space exploration."
+  location         : "Kaifeng, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "GaofengShu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-7098-7029"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
