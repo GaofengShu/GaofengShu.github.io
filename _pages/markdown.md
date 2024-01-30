@@ -32,7 +32,8 @@ redirect_from:
   * No icon: not built
 
 ## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+
+* [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
 ## Markdown guide
 
@@ -54,23 +55,23 @@ Single line blockquote:
 
 ### Table 1
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Entry         | Item |                                     |
+| ------------- | ---- | ----------------------------------- |
+| [John Doe](#) | 2016 | Description of the item in the list |
+| [Jane Doe](#) | 2019 | Description of the item in the list |
+| [Doe Doe](#)  | 2022 | Description of the item in the list |
 
 ### Table 2
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+| Header1                       | Header2 | Header3 |
+|:----------------------------- |:-------:| -------:|
+| cell1                         | cell2   | cell3   |
+| cell4                         | cell5   | cell6   |
+| ----------------------------- |         |         |
+| cell1                         | cell2   | cell3   |
+| cell4                         | cell5   | cell6   |
+| ============================= |         |         |
+| Foot1                         | Foot2   | Foot3   |
 
 ## Definition Lists
 
@@ -88,33 +89,33 @@ Do It Live
 
 ## Unordered Lists (Nested)
 
+* List item one 
   * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
+    * List item one
+    * List item two
+    * List item three
+    * List item four
   * List item two
   * List item three
   * List item four
+* List item two
+* List item three
+* List item four
 
 ## Ordered List (Nested)
 
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
+1. List item one 
+   1. List item one 
+      1. List item one
       2. List item two
       3. List item three
       4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
+   2. List item two
+   3. List item three
+   4. List item four
+2. List item two
+3. List item three
+4. List item four
 
 ## Buttons
 
