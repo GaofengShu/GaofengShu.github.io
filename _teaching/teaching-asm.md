@@ -1,5 +1,5 @@
 ---
-title: "教学经历"
+title: "汇编语言与接口技术"
 collection: teaching
 type: "本科生课程"
 permalink: /teaching/teaching-asm
@@ -7,6 +7,8 @@ venue: "河南大学计算机与信息工程学院"
 date: 2023-09-01
 location: "中国开封"
 ---
+
+2021年入职河南大学以来，一直从事《汇编语言与接口技术》的本科教学工作。
 
 # 汇编语言与接口技术
 
