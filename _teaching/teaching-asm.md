@@ -1,6 +1,6 @@
 ---
 title: "教学经历"
-collection: 本科教学
+collection: teaching
 type: "本科生课程"
 permalink: /teaching/teaching-asm
 venue: "河南大学计算机与信息工程学院"
