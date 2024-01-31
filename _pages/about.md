@@ -26,19 +26,13 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 
 [4] **舒高峰**, 刘明月, 李宁\*. 基于改进特征子空间投影的SAR脉冲式直达波干扰抑制方法[J]. 电子与信息学报. doi: [10.11999/JEIT230665](http://dx.doi.org/10.11999/JEIT230665). (early access)
 
-[5] M. Liu, G. Shu\* and N. Li, "SAR pulse radio frequency interference suppression based on modified eigen subspace projection," *Proceedings Volume 12815, International Conference on Remote Sensing, Mapping, and Geographic Systems (RSMG 2023)*, Kaifeng, China, 2023, pp. 128151F, doi:[10.1117/12.3010351](https://doi.org/10.1117/12.3010351).
+[5] M. Liu, **G. Shu\*** and N. Li, "SAR pulse radio frequency interference suppression based on modified eigen subspace projection," *Proceedings Volume 12815, International Conference on Remote Sensing, Mapping, and Geographic Systems (RSMG 2023)*, Kaifeng, China, 2023, pp. 128151F, doi:[10.1117/12.3010351](https://doi.org/10.1117/12.3010351).
 
 ## Vortex electromagnetic wave radar
 
-
-
 ## Deep space exploration
 
-
-
 ## Others
-
-
 
 # For more info
 
