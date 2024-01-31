@@ -9,51 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# 教育经历
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- 2019.09 - 202.08，意大利罗马第一大学 (Università degli studi di Roma "La Sapienza")，联合培养博士
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 2015.09 - 2021.06，中国科学院空天信息创新研究院 (原电子学研究所)，通信与信息系统，博士研究生，工学博士
+  
+- 2011.09 - 2015.06，武汉大学电子信息学院，电波传播与天线，本科，工学学士
+  
 
-Publications
+# 工作经历
+
+- 2021.06 - 至今，河南大学计算机与信息工程学院，任讲师、特聘副教授
+  
+  - 本科教学工作
+    
+  - 硕士研究生培养
+    
+  - 个人科研
+    
+
+# 技能
+
+- Matlab
+
+
+
+
+出版物
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+会议演讲
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+本科教学
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+社会服务
 ======
-* Currently signed in to 43 different slack teams
+- 无
