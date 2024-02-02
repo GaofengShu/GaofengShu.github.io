@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.S. degree in electromagnetic wave propagation and antenna from Electronic Information School, [Wuhan University (武汉大学)](https://www.whu.edu.cn/), Wuhan, Hubei, China, in 2015, and the Ph.D. degree in communication and information system from the Department of Space Microwave Remote Sensing Systems, Aerospace Information Research Institute, [Chinese Academy of Sciences (中国科学院大学)](https://www.ucas.ac.cn/), Beijing, China, in 2021. From 2019 to 2020, I studied as a visiting Ph.D. student with the [Sapienza Università di Roma](https://www.uniroma1.it/en),” Rome, Italy. In 2021, I joined the School of Computer and Information Engineering, [Henan University (河南大学)](https://www.henu.edu.cn/), Kaifeng, China. My research interests include synthetic aperture radar (SAR) imaging, orbital angular momentum, forward-looking radar imaging, and planetary and remote sensing.
+I received the B.S. degree in electromagnetic wave propagation and antenna from Electronic Information School, [Wuhan University (武汉大学)](https://www.whu.edu.cn/), Wuhan, Hubei, China, in 2015, and the Ph.D. degree in communication and information system from the Department of Space Microwave Remote Sensing Systems, Aerospace Information Research Institute, [Chinese Academy of Sciences (中国科学院大学)](https://www.ucas.ac.cn/), Beijing, China, in 2021. From 2019 to 2020, I studied as a visiting Ph.D. student with the [Sapienza University of Rome (Sapienza Università di Roma "La Sapienza")](https://www.uniroma1.it/en), Rome, Italy. In 2021, I joined the School of Computer and Information Engineering, [Henan University (河南大学)](https://www.henu.edu.cn/), Kaifeng, China. My research interests include synthetic aperture radar (SAR) imaging, orbital angular momentum, forward-looking radar imaging, and planetary and remote sensing.
 
 # Research intresting
 
@@ -28,7 +28,7 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 
 5. M. Liu, **G. Shu\*** and N. Li, "SAR pulse radio frequency interference suppression based on modified eigen subspace projection," *Proceedings Volume 12815, International Conference on Remote Sensing, Mapping, and Geographic Systems (RSMG 2023)*, Kaifeng, China, 2023, pp. 128151F, doi: [10.1117/12.3010351](https://doi.org/10.1117/12.3010351).
 
-## Vortex electromagnetic wave radar
+## Vortex electromagnetic wave radar (涡旋电磁波雷达)
 
 **Vortex electromagnetic waves** are a type of electromagnetic wave that carries orbital angular momentum. These waves have spiral phase wavefronts and infinite modes, which can introduce new degrees of freedom to communication and microwave imaging. Some publications are listed below.
 
@@ -40,13 +40,13 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 
 4. **G. Shu**, B. Chen and N. Li\*, "An Orbital Angular Momentum Mode Estimation Method with an Unknown Beam Axis," *2021 IEEE Sensors*, Sydney, Australia, 2021, pp. 1-4, doi: [10.1109/SENSORS47087.2021.9639834](https://doi.org/10.1109/SENSORS47087.2021.9639834).
 
-## Planetary and remote sensing
+## Planetary and remote sensing (行星微波遥感)
 
 Planetary and remote sensing employ remote sensing techniques to detect fundamental properties of a planet's surface or subsurface, such as surface elevation, roughness, and dielectric constant. These methods can also be used to map and date unique geological structures on the planet's surface. Some publications are listed below.
 
 1. Z. Huang, Z. Song, **G. Shu\***, Y. Huang and N. Li, "Removing the Effect of Lunar Topography on Mini-RF SAR Polarimetric Parameters Through DEM Data," in *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, 2024, Art no. 4001005, doi:  [10.1109/LGRS.2023.3343116](https://doi.org/10.1109/LGRS.2023.3343116).
 
-2. Z. Song, Z. Huang, **G. Shu\***, Z. Guo and N. Li, "Mapping the Range of Simple Fresh Lunar Crater Ejecta by Analyzing the Scattering Characteristics of the Lunar Regolith Using Mini-RF Data," in *IEEE Geoscience and Remote Sensing Letters*, doi:  [10.1109/LGRS.2024.3356201](https://doi.org/10.1109/LGRS.2024.3356201).
+2. Z. Song, Z. Huang, **G. Shu\***, Z. Guo and N. Li, "Mapping the Range of Simple Fresh Lunar Crater Ejecta by Analyzing the Scattering Characteristics of the Lunar Regolith Using Mini-RF Data," in *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, 2024, Art no. 4002605, doi:  [10.1109/LGRS.2024.3356201](https://doi.org/10.1109/LGRS.2024.3356201).
 
 ## Others
 
