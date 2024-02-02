@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -36,7 +36,7 @@ redirect_from:
 
 
 
-出版物
+论文著作
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}

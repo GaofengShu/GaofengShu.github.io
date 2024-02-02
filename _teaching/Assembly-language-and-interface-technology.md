@@ -2,7 +2,7 @@
 title: "汇编语言与接口技术"
 collection: teaching
 type: "本科生课程"
-permalink: /teaching/teaching-asm
+permalink: /teaching/Assembly-language-and-interface-technology
 venue: "河南大学计算机与信息工程学院"
 date: 2023-09-01
 location: "中国开封"
