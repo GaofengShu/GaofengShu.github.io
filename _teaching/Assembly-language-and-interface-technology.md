@@ -26,20 +26,20 @@ location: "中国开封"
 
 以下为 2023 年秋季学期课件
 
-第〇章：
+第〇章：[课程简介与教学要求](http://GaofengShu.github.io/files/PPT-Assembly-language-and-interface-technology/第 0 章 课程简介与教学要求.pdf)
 
-第一章：
+第一章：[微型计算机概述](http://GaofengShu.github.io/files/PPT-Assembly-language-and-interface-technology/第 1 章 微型计算机概述.pdf)
 
-第二章：
+第二章：[80x86 微处理器](http://GaofengShu.github.io/files/PPT-Assembly-language-and-interface-technology/第 2 章 80x86 微处理器.pdf)
 
-第三章：
+第三章：[80x86 指令系统和寻址方式](http://GaofengShu.github.io/files/PPT-Assembly-language-and-interface-technology/第 3 章 80x86 指令系统和寻址方式.pdf)
 
-第四章：
+第四章：[80x86 汇编语言程序设计](http://GaofengShu.github.io/files/PPT-Assembly-language-and-interface-technology/第 4 章 80x86 汇编语言程序设计.pdf)
 
-第六章：
+第六章：[输入输出接口及数据传输控制方式](http://GaofengShu.github.io/files/PPT-Assembly-language-and-interface-technology/第 6 章 输入输出接口及数据传输控制方式.pdf)
 
-第七章：
+第七章：[串并行接口技术](http://GaofengShu.github.io/files/PPT-Assembly-language-and-interface-technology/第 7 章 串并行接口技术.pdf)
 
-第八章：
+第八章：[中断与中断控制器](http://GaofengShu.github.io/files/PPT-Assembly-language-and-interface-technology/第 8 章 中断与中断控制器.pdf)
 
 # 学习资料
