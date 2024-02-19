@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2015-05-22-Bachelor-thesis
 excerpt: '本科毕业论文'
 date: 2015-05-22
-venue: ''
+venue: '武汉大学'
 citation: '舒高峰. SAR 回波模拟器设计[D]. 武汉:武汉大学, 2015.'
 
 ---
