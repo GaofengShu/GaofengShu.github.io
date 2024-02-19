@@ -21,10 +21,9 @@ citation: 'Gaofeng Shu <i>et al</i>. &quot;Chirp Signal Transmission and Recepti
 </style>
 </head>
 
-这篇论文使用均匀环形阵列产生了 3 种涡旋电磁波模态（其中包括模态 0，即普通平面电磁波），3 种模态的涡旋电磁波分别携带 3 种不同调频率的线性调频信号。在接收端采用了同样的天线阵列接收这些信号，分别将它们与三种不同的匹配滤波器进行脉冲压缩处理，发现只有当**接收模态与发射模态**相同时，才能得到一个较高的响应函数。本实验证明了涡旋电磁波传输宽带信号的能力，以及不同模态之间的正交性。\[[pdf](http://GaofengShu.github.io/files/2019-05-03-Chirp-Signal-TR-with-OAM-Multiplexing.pdf), , <div class="myDIV">EI</div><div class="hide">**Accession Number**: 20192006921746</div>, IF=3.726, CAS R2\]
-<div class="myDIV">SCI</div>
-<div class="hide">**Accession Number**: WOS:000467065200036</div>
-
+这篇论文使用均匀环形阵列产生了 3 种涡旋电磁波模态（其中包括模态 0，即普通平面电磁波），3 种模态的涡旋电磁波分别携带 3 种不同调频率的线性调频信号。在接收端采用了同样的天线阵列接收这些信号，分别将它们与三种不同的匹配滤波器进行脉冲压缩处理，发现只有当**接收模态与发射模态**相同时，才能得到一个较高的响应函数。本实验证明了涡旋电磁波传输宽带信号的能力，以及不同模态之间的正交性。\[[pdf](http://GaofengShu.github.io/files/2019-05-03-Chirp-Signal-TR-with-OAM-Multiplexing.pdf), SCI, EI, IF=3.726, CAS R2\]
+*[SCI]: **Accession Number**: WOS:000467065200036
+*[EI]: **Accession Number**: 20192006921746
 
 <img src='/images/pubsImages/OAMMultiplexing.png'>
 
