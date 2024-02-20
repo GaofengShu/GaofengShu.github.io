@@ -1,8 +1,10 @@
 ---
 title: "SAR jamming and anti-jamming (SAR干扰与抗干扰)"
-excerpt: "**SAR jamming** technology is the act of polluting SAR images or creating deceptive scenes in SAR images through some technical means. **SAR anti-jamming** or **anti-interference** refers to designing a new radar system to prevent jamming signals from entering the receiver, or to remove jamming or interference signals from the received echo. Some publications are listed below.<br/><img src='/images/500x300.png'>"
+excerpt: "**SAR jamming** technology is the act of polluting SAR images or creating deceptive scenes in SAR images through some technical means. **SAR anti-jamming** or **anti-interference** refers to designing a new radar system to prevent jamming signals from entering the receiver, or to remove jamming or interference signals from the received echo.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+
+**SAR jamming** technology is the act of polluting SAR images or creating deceptive scenes in SAR images through some technical means. **SAR anti-jamming** or **anti-interference** refers to designing a new radar system to prevent jamming signals from entering the receiver, or to remove jamming or interference signals from the received echo. Some publications are listed below.
 
 1. D. Cheng, Z. Liu, Z. Guo, **G. Shu\*** and N. Li, "A Repeater-Type SAR Deceptive Jamming Method Based on Joint Encoding of Amplitude and Phase in the Intra-Pulse and Inter-Pulse," in *Remote Sensing*, vol. 14, no. 18, pp. 4597, doi: [10.3390/rs14184597](https://doi.org/10.3390/rs14184597).
 
