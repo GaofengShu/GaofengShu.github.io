@@ -8,10 +8,11 @@ venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: 'http://GaofengShu.github.io/files/2021-03-02-Vortex-SAR-Imaging-Decreasing-PRF.pdf'
 citation: 'Gaofeng Shu <i>et al</i>. &quot;A Novel Vortex Synthetic Aperture Radar Imaging System: Decreasing the Pulse Repetition Frequency Without Increasing the Antenna Aperture&quot; <i>IEEE Transactions on Geoscience and Remote Sensing</i>. 2022, 60, Art no. 5203014.'
 ---
-本文提出了一种发射平面电磁波，接收不同模态涡旋电磁波的 SAR 成像系统。基于传统相控阵原理，在合适的参数设计下，涡旋电磁波沿方位向相位历程可近似为线性的，这样相当于在雷达运动方向存在一个虚拟接收天线。当调整不同模态涡旋电磁波进行接收时，可以在雷达运动方形存在一系列虚拟子通道接收，这与方位向实孔径多通道系统类似，因此可以降低 SAR 脉冲重复频率，降低系统设计难度。仿真结果证明了该系统的有效性和局限性。\[[pdf](http://GaofengShu.github.io/files/2021-03-02-Vortex-SAR-Imaging-Decreasing-PRF.pdf), SCI, EI, IF=8.1996, CAS R1 Top\]
+本文提出了一种发射平面电磁波，接收不同模态涡旋电磁波的 SAR 成像系统。基于传统相控阵原理，在合适的参数设计下，涡旋电磁波沿方位向相位历程可近似为线性的，这样相当于在雷达运动方向存在一个虚拟接收天线。当调整不同模态涡旋电磁波进行接收时，可以在雷达运动方形存在一系列虚拟子通道接收，这与方位向实孔径多通道系统类似，因此可以降低 SAR 脉冲重复频率，降低系统设计难度。仿真结果证明了该系统的有效性和局限性。\[[pdf](http://GaofengShu.github.io/files/2021-03-02-Vortex-SAR-Imaging-Decreasing-PRF.pdf), SCI, EI, IF=8.1996, CAS G1 Top\]
 
 *[SCI]: Accession Number: WOS:000728266600056
 *[EI]: Accession Number: 20211110072704
+*[CAS G1 Top]: The 1st top grade of journal ranking of the Chinese Academy of Sciences
 
 
 <img src='/images/pubsImages/OAMRadarBeamTRScheme.png'>
