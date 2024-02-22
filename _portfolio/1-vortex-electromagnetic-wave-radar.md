@@ -1,6 +1,6 @@
 ---
 title: "Vortex electromagnetic wave radar (涡旋电磁波雷达)"
-excerpt: "**Vortex electromagnetic waves** are a type of electromagnetic wave that carries orbital angular momentum. These waves have spiral phase wavefronts and infinite modes, which can introduce new degrees of freedom to communication and microwave imaging.<br/><img src='/images/500x300.png'>"
+excerpt: "**Vortex electromagnetic waves** are a type of electromagnetic wave that carries orbital angular momentum. These waves have spiral phase wavefronts and infinite modes, which can introduce new degrees of freedom to communication and microwave imaging.<br/><img src='/images/pubsImages/vortex-radar.png'>"
 collection: portfolio
 ---
 
