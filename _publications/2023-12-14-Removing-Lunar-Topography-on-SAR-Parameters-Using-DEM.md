@@ -6,7 +6,7 @@ excerpt: 'A method to remove the effect of lunar topography on Mini-RF SAR polar
 date: 2023-12-14
 venue: 'IEEE Geoscience and Remote Sensing Letters'
 paperurl: 'http://GaofengShu.github.io/files/2023-12-14-Removing-Lunar-Topography-on-SAR-Parameters-Using-DEM.pdf'
-citation: 'Z. Huang, Z. Song, G. Shu, Y. Huang and N. Li. &quot;Removing the Effect of Lunar Topography on Mini-RF SAR Polarimetric Parameters Through DEM Data&quot;. <i>IEEE Geoscience and Remote Sensing Letters</i>. 2024, 21, Art no. 4001005.'
+citation: 'Z. Huang, Z. Song, <b>G. Shu</b>, Y. Huang and N. Li. &quot;Removing the Effect of Lunar Topography on Mini-RF SAR Polarimetric Parameters Through DEM Data&quot;. <i>IEEE Geoscience and Remote Sensing Letters</i>. 2024, 21, Art no. 4001005.'
 ---
 使用 DEM 数据建立月球表面法线图，联合 Mini-RF SAR 数据建立月球表面局部入射角与 SAR 参数的统计规律。在此基础上，使用线性散射模型移除由月球表面地形对 SAR 参数的影响。\[[pdf](http://GaofengShu.github.io/files/2023-12-14-Removing-Lunar-Topography-on-SAR-Parameters-Using-DEM.pdf), SCI, EI, IF=4.8003, CAS G3\]
 
