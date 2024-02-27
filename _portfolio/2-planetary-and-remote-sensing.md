@@ -1,6 +1,6 @@
 ---
 title: "Planetary and remote sensing (行星微波遥感)"
-excerpt: "**Planetary and remote sensing** employ remote sensing techniques to detect fundamental properties of a planet's surface or subsurface, such as surface elevation, roughness, and dielectric constant. These methods can also be used to map and date unique geological structures on the planet's surface.<br/><img src='/images/LunarEjectaMappingResults.png'>"
+excerpt: "**Planetary and remote sensing** employ remote sensing techniques to detect fundamental properties of a planet's surface or subsurface, such as surface elevation, roughness, and dielectric constant. These methods can also be used to map and date unique geological structures on the planet's surface.<br/><img src='/images/pubsImages/LunarEjectaMappingResults.png'>"
 collection: portfolio
 ---
 
