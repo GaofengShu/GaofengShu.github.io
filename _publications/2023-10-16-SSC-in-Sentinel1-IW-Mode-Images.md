@@ -2,7 +2,7 @@
 title: "The Application of SSC for RFI Suppression in SLC Images of Sentinel-1 IW Mode"
 collection: publications
 permalink: /publication/2023-10-16-SSC-in-Sentinel1-IW-Mode-Images
-excerpt: 'A method to map the range of ejecta of simple fresh lunar crater of Mini-RF SAR data.'
+excerpt: 'A SSC method to protect useful signals while suppressing RFI in Sentinel-1 IW mode.'
 date: 2023-10-16
 venue: 'IEEE Geoscience and Remote Sensing Letters'
 paperurl: 'http://GaofengShu.github.io/files/2023-10-16-SSC-in-Sentinel1-IW-Mode-Images.pdf'
