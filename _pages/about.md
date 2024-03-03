@@ -16,4 +16,4 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 
 # For more infomation
 
-More infomation about me can be found in [my homepage in Henan University](https://cs.henu.edu.cn/info/1272/5500.htm).
+More infomation about me can be found in [my homepage in Henan University](https://cs.henu.edu.cn/info/1272/5500.htm) and [my CV](https://gaofengshu.github.io/cv/).
