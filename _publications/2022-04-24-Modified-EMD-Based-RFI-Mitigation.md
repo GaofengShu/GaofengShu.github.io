@@ -2,7 +2,7 @@
 title: "A modified EMD method for detecting and mitigating narrow-band RFI in SAR data"
 collection: publications
 permalink: /publication/2022-04-24-Modified-EMD-Based-RFI-Mitigation
-excerpt: 'a modified EMD method is proposed to tackle the loss of useful signals while mitigating RFI via traditional EMD-based method.'
+excerpt: 'A modified EMD method to address the loss of useful signals while mitigating RFI via traditional EMD-based method.'
 date: 2022-04-24
 venue: 'Remote Sensing Letters'
 paperurl: 'http://GaofengShu.github.io/files/2022-04-24-Modified-EMD-Based-RFI-Mitigation.pdf'
