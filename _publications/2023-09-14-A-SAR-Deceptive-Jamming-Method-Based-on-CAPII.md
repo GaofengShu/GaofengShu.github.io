@@ -3,7 +3,7 @@ title: "A Repeater-Type SAR Deceptive Jamming Method Based on Joint Encoding of 
 collection: publications
 permalink: /publication/2023-09-14-A-SAR-Deceptive-Jamming-Method-Based-on-CAPII
 excerpt: 'The mehtod can control the numbers, positions, and amplitudes of the false targets by changing the specific parameters.'
-date: 2023-09-14
+date: 2022-09-14
 venue: 'Remote Sensing'
 paperurl: 'http://GaofengShu.github.io/files/2023-09-14-A-SAR-Deceptive-Jamming-Method-Based-on-CAPII.pdf'
 citation: 'D. Cheng, Z. Liu, Z. Guo, <b>G. Shu</b> and N. Li. &quot;A Repeater-Type SAR Deceptive Jamming Method Based on Joint Encoding of Amplitude and Phase in the Intra-Pulse and Inter-Pulse&quot;. <i>Remote Sensing</i>. 2022, 14, 18.'
