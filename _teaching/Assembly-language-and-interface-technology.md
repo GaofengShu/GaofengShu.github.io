@@ -14,13 +14,15 @@ location: "中国开封"
 
 《汇编语言与接口技术》是一门计算机专业学生的专业基础课，通常平时成绩与期末考试成绩占比为30%和70%。以下是历年讲授该课程的一些基本情况。
 
-| 时间      | 学生学院       | 班级            | 人数  | 及格率                     | 备注          |
+| 时间      | 学生学院       | 班级            | 人数  | 及格率<sup>*</sup>                     | 备注          |
 |:------- |:---------- |:------------- |:--- | ----------------------- |:----------- |
 | 2021 年秋 | 国际教育学院     | 20级中美计科       | 112 | 卷面及格率53.64%，综合及格率85.45% |             |
 | 2022 年秋 | 国际教育学院     | 21级中美计科6.7.8班 | 128 | 卷面及格率87.20%，综合及格率99.20% | 期末:平时=50:50 |
 |         | 计算机与信息工程学院 | 21-1 计科       | 123 | 卷面及格率89.92%，综合及格率96.64% | 期末:平时=50:50 |
 | 2023 年秋 | 计算机与信息工程学院 | 22-2-1 信安     | 53  | 卷面及格率43.40%，综合及格率69.81% | 12-17周      |
 |         | 计算机与信息工程学院 | 22-2-2 信安     | 36  | 卷面及格率52.78%，综合及格率77.78% |             |
+
+*卷面及格率表示期末考试试卷60分及以上的学生人数占总学生人数的比值，综合及格率表示综合期末考试和平时成绩60分及以上的学生人数占总学生人数的比值，即通过课程考核的人数占比，这部分学生无需补考或重修。
 
 # 课件
 
@@ -43,3 +45,22 @@ location: "中国开封"
 第八章：[中断与中断控制器](http://GaofengShu.github.io/files/PPT-Assembly-language-and-interface-technology/第 8 章 中断与中断控制器.pdf)
 
 # 学习资料
+## 指令集
+- [8086 指令集](http://GaofengShu.github.io/files/References-ALIT/8086_instruction_set.pdf)
+
+
+## 参考书籍
+入门：
+- 周明德主编, 微机原理与接口技术（第2版）, 人民邮电出版社, 2007.
+- 王爽编著, 《汇编语言》（第3版）, 清华大学出版社, 2013.
+
+
+进阶：
+- Randall Hyde. "[The Art of Assembly Language Programming](https://shrek.unideb.hu/~gjhalasz/assembly/masm/toc.html)." 1996. (Copyright 1996 by Randall Hyde All rights reserved.)
+- [美]Randall Hyde. 包战, 马跃 译. [汇编语言的编程艺术](https://book.douban.com/subject/7059709/)[M]. 北京: 清华大学出版社, 2011. ISBN:9787302263739.
+
+## 接口芯片文档
+- [8251A 文档](http://GaofengShu.github.io/files/References-ALIT/8251A-datasheet.pdf)
+- [8255A 文档](http://GaofengShu.github.io/files/References-ALIT/8255A-datasheet.pdf)
+
+
