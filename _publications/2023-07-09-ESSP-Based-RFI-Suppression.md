@@ -15,7 +15,7 @@ citation: 'Mingyue Liu, <b>Gaofeng Shu</b> and Ning Li. &quot;SAR pulse radio fr
 an improved SAR PRFI suppression method based on ESP
 
 
-<img src='/images/pubsImages/ESSPBasedRFISuppression.png'>
+<img src='/images/pubsImages/ESSPBasedRFISuppression.jpg'>
 
 Recommended citation:
 
