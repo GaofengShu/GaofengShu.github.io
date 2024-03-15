@@ -82,7 +82,7 @@ location: "中国开封"
 答：请确保 masm 文件夹放在根目录 (如 D:) 下，且保证第一条加载语句正确。如下图所示。
 <img src='/images/ALIT/mount-debug.jpg'>
 
-- ml *.asm 出现 `This program cannot be run in DOS mode.`
+- `ml *.asm` 出现 `This program cannot be run in DOS mode.`
 <img src='/images/ALIT/connot-be-rum-in-dos-mode.jpg'>
 
 答：提示，很有可能是 ml.exe 和 ml.err 两个文件版本不一致，替换成可用的文件即可。
