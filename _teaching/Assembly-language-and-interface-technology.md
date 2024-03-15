@@ -85,7 +85,7 @@ location: "中国开封"
 - `ml *.asm` 出现 `This program cannot be run in DOS mode.`
 <img src='/images/ALIT/connot-be-rum-in-dos-mode.jpg'>
 
-答：提示，很有可能是 ml.exe 和 ml.err 两个文件版本不一致，替换成可用的文件即可。
+<span style="color: red;">答：</span>提示，很有可能是 ml.exe 和 ml.err 两个文件版本不一致，替换成可用的文件即可。
 
 # 复习要点
 
