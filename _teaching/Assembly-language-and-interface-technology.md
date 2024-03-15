@@ -63,4 +63,27 @@ location: "中国开封"
 - [8251A 文档](http://GaofengShu.github.io/files/References-ALIT/8251A-datasheet.pdf)
 - [8255A 文档](http://GaofengShu.github.io/files/References-ALIT/8255A-datasheet.pdf)
 
+# 常见问题
+## 理论知识
+1. 为什么 -1 是 0FFH。
+
+答：两种思路。①-1的二进制原码为10000001，其补码为11111111=0FFH。②补码实际上是正数的相反数，1的补码是00000001，其相反数为00000000-00000001=11111111=0FFH。
+
+2. 关于负数最小值。8 位原码最小值应为 11111111，补码不应该是 10000001？怎么是 80H 呢？
+
+答：8位二进制补码当中，还有比10000001还小的数，即10000001-1=10000000=80H。实际上，4位有符号二进制数能够表示的数据范围是-8~7，8位有符号二进制数的数据范围是-128~127。负的最小值的绝对值比正的最大值绝对值多1。
+
+
+
+
+## 实验实践
+<font color='red'>1. 无法使用debug，出现illegal command debug错误。</font>
+
+答：请确保masm文件夹放在根目录 (如D:) 下，且保证第一条加载语句正确。如下图所示。
+<img src='/images/ALIT/mount-debug.jpg'>
+
+<font color='red'>2.	ml *.asm出现“This program cannot be run in DOS mode.”</font>
+<img src='/images/ALIT/connot-be-rum-in-dos-mode.jpg'>
+
+答：提示，很有可能是 ml.exe 和 ml.err 两个文件版本不一致，替换成可用的文件即可。
 
