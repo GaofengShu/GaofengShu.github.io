@@ -12,8 +12,6 @@ citation: 'Mingyue Liu, <b>Gaofeng Shu</b> and Ning Li. &quot;SAR pulse radio fr
 
 *[EI]: Accession Number: 20234915157661
 
-an improved SAR PRFI suppression method based on ESP
-
 
 <img src='/images/pubsImages/ESSPBasedRFISuppression.jpg'>
 
