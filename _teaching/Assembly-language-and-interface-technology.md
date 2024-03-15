@@ -77,7 +77,7 @@ location: "中国开封"
 
 
 ## 实验实践
-<font color='red'>1. 无法使用 debug，出现 `illegal command debug` 错误。</font>
+1. 无法使用 debug，出现 `illegal command debug` 错误。
 
 答：请确保 masm 文件夹放在根目录 (如 D:) 下，且保证第一条加载语句正确。如下图所示。
 <img src='/images/ALIT/mount-debug.jpg'>
