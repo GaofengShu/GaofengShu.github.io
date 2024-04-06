@@ -2,7 +2,7 @@
 title: "A Novel Method for SAR Ship Detection Based on Eigensubspace Projection"
 collection: publications
 permalink: /publication/2022-07-12-ESSP-Based-Ship-Detection
-excerpt: 'A method to suppress pulse radio frequency interference in SAR images based on eigen subspace projection.'
+excerpt: 'A method to detect ship target in SAR images based on eigen subspace projection.'
 date: 2022-07-12
 venue: 'Remote Sensing'
 paperurl: 'http://GaofengShu.github.io/files/2022-07-12-ESSP-Based-Ship-Detection.pdf'
