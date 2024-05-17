@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-11-20-Maximum-Modified-Kurtosis-Based-Phase-Bias-Estimation
 excerpt: 'By analyzing the echo characteristics of multi-channel synthetic aperture radar, the objective optimization function of reconstructing Doppler spectrum is constructed to estimate the channel phase deviation accurately.'
 date: 2022-11-20
-venue: 'Remote Sensing'
+venue: 'Electronics'
 paperurl: 'http://GaofengShu.github.io/files/2022-11-20-Maximum-Modified-Kurtosis-Based-Phase-Bias-Estimation.pdf'
 citation: 'X. Pan, H. Zhang and <b>G. Shu</b>. &quot;Robust Phase Bias Estimation Method for Azimuth Multi-Channel HRWS SAR System Based on Maximum Modified Kurtosis&quot;. <i>Electronics</i>. 2022, 11, 22.'
 ---
