@@ -34,6 +34,5 @@ bibtex:
 	number={22},
 	pages={3821},
 	doi={10.3390/electronics11223821},
-	scino={000887031900001},
 }
 </pre>
