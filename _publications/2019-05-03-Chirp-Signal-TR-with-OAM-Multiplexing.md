@@ -8,11 +8,11 @@ venue: 'IEEE Antennas and Wireless Propagation Letters'
 paperurl: 'http://GaofengShu.github.io/files/2019-05-03-Chirp-Signal-TR-with-OAM-Multiplexing.pdf'
 citation: '<b>Gaofeng Shu</b> <i>et al</i>. &quot;Chirp Signal Transmission and Reception With Orbital Angular Momentum Multiplexing&quot;. <i>IEEE Antennas and Wireless Propagation Letters</i>. 2019, 18(5):986-990.'
 ---
-这篇论文使用均匀环形阵列产生了 3 种涡旋电磁波模态（其中包括模态 0，即普通平面电磁波），3 种模态的涡旋电磁波分别携带 3 种不同调频率的线性调频信号。在接收端采用了同样的天线阵列接收这些信号，分别将它们与三种不同的匹配滤波器进行脉冲压缩处理，发现只有当**接收模态与发射模态**相同时，才能得到一个较高的响应函数。本实验证明了涡旋电磁波传输宽带信号的能力，以及不同模态之间的正交性。\[[pdf](http://GaofengShu.github.io/files/2019-05-03-Chirp-Signal-TR-with-OAM-Multiplexing.pdf), SCI, EI, IF=3.726, CAS G2\]
+这篇论文使用均匀环形阵列产生了 3 种涡旋电磁波模态（其中包括模态 0，即普通平面电磁波），3 种模态的涡旋电磁波分别携带 3 种不同调频率的线性调频信号。在接收端采用了同样的天线阵列接收这些信号，分别将它们与三种不同的匹配滤波器进行脉冲压缩处理，发现只有当**接收模态与发射模态**相同时，才能得到一个较高的响应函数。本实验证明了涡旋电磁波传输宽带信号的能力，以及不同模态之间的正交性。\[[pdf](http://GaofengShu.github.io/files/2019-05-03-Chirp-Signal-TR-with-OAM-Multiplexing.pdf), SCI, EI, IF=3.726, CAS-G2, JCR-Q2\]
 
 *[SCI]: Accession Number: WOS:000467065200036
 *[EI]: Accession Number: 20192006921746
-*[CAS G2]: The 2nd grade of journal ranking of the Chinese Academy of Sciences
+*[CAS-G2]: The 2nd grade of journal ranking of the Chinese Academy of Sciences
 
 <img src='/images/pubsImages/OAMMultiplexing.png'>
 
