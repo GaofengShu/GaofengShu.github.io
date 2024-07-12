@@ -65,6 +65,7 @@ redirect_from:
 | 2022 - 2025 | 孙佳成            | 硕士  | 实际   |                                                                                                                    |      |      |
 | 2022 - 2025 | 路　炘            | 硕士  | 实际   |                                                                                                                    |      |      |
 | 2021 - 2024 | 宋照博            | 硕士  | 实际   | [\[1\]](https://gaofengshu.github.io/publication/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SAR-Data)   | 基于遥感数据的月球陨石坑形态检测方法研究 | 河南大学地理与环境学院读博     |
+| 2021 - 2024 | 刘明月            | 硕士  | 协助   | [\[1\]](https://gaofengshu.github.io/publication/2023-07-09-ESSP-Based-RFI-Suppression)[\[2\]](https://gaofengshu.github.io/publication/2023-12-07-SAR-PDWI-Suppression-Using-Improved-ESSP) | 星载SAR脉冲式直达波干扰检测与抑制方法 |      |
 | 2021 - 2024 | 黄展翅            | 硕士  | 实际   | [\[1\]](https://gaofengshu.github.io/publication/2023-12-14-Removing-Lunar-Topography-on-SAR-Parameters-Using-DEM) | 基于月球数字高程模型的Mini-RF数据地形校正方法研究 |      |
 
 *同一级按学生姓名拼音逆序排列。
