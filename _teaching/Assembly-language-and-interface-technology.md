@@ -64,8 +64,10 @@ location: "中国开封"
 
 ## 接口芯片文档
 
-- [8251A 文档](http://GaofengShu.github.io/files/References-ALIT/8251A-datasheet.pdf)
+- [8254 文档](http://GaofengShu.github.io/files/References-ALIT/8254-datasheet.pdf)
 - [8255A 文档](http://GaofengShu.github.io/files/References-ALIT/8255A-datasheet.pdf)
+- [8251A 文档](http://GaofengShu.github.io/files/References-ALIT/8251A-datasheet.pdf)
+- [8259A 文档](http://GaofengShu.github.io/files/References-ALIT/8259A-datasheet.pdf)
 
 # 常见问题
 
