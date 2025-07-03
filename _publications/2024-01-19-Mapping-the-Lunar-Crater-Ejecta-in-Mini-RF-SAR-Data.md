@@ -2,7 +2,7 @@
 title: "Mapping the Range of Simple Fresh Lunar Crater Ejecta by Analyzing the Scattering Characteristics of the Lunar Regolith Using Mini-RF Data"
 collection: publications
 permalink: /publication/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SAR-Data
-excerpt: 'A method to map the range of ejecta of simple fresh lunar crater of Mini-RF SAR data.'[pdf](http://GaofengShu.github.io/files/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SAR-Data.pdf)
+excerpt: 'A method to map the range of ejecta of simple fresh lunar crater of Mini-RF SAR data.[pdf](http://GaofengShu.github.io/files/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SAR-Data.pdf)'
 date: 2024-01-19
 venue: 'IEEE Geoscience and Remote Sensing Letters'
 paperurl:
