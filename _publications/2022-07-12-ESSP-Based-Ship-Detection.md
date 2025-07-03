@@ -2,10 +2,10 @@
 title: "A Novel Method for SAR Ship Detection Based on Eigensubspace Projection"
 collection: publications
 permalink: /publication/2022-07-12-ESSP-Based-Ship-Detection
-excerpt: 'A method to detect ship target in SAR images based on eigen subspace projection.'
+excerpt: 'A method to detect ship target in SAR images based on eigen subspace projection. \[[pdf](http://GaofengShu.github.io/files/2022-07-12-ESSP-Based-Ship-Detection.pdf)\]'
 date: 2022-07-12
 venue: 'Remote Sensing'
-paperurl: 'http://GaofengShu.github.io/files/2022-07-12-ESSP-Based-Ship-Detection.pdf'
+paperurl:
 citation: '<b>G. Shu</b>, J. Chang, J. Lu, Q. Wang and N. Li. &quot;A Novel Method for SAR Ship Detection Based on Eigensubspace Projection&quot;. <i>Remote Sensing</i>. 2022, 14, 14.'
 ---
 
