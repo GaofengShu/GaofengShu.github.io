@@ -5,7 +5,7 @@ permalink: /publication/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SA
 excerpt: 'A method to map the range of ejecta of simple fresh lunar crater of Mini-RF SAR data.'
 date: 2024-01-19
 venue: 'IEEE Geoscience and Remote Sensing Letters'
-paperurl: '[pdf](http://GaofengShu.github.io/files/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SAR-Data.pdf)'
+paperurl:
 citation: 'Z. Song, Z. Huang, <b>G. Shu</b>, Z. Guo and N. Li. &quot;Mapping the Range of Simple Fresh Lunar Crater Ejecta by Analyzing the Scattering Characteristics of the Lunar Regolith Using Mini-RF Data&quot;. <i>IEEE Geoscience and Remote Sensing Letters</i>. 2024, 21, Art no. 4002605.'
 ---
 本文使用三分量简缩极化分解来处理 Mini-RF 数据，识别陨石坑底部、陨石坑壁、简单新鲜陨石坑喷出物和月球背景风化层的散射特征。然后，通过分析陨石坑喷出物极化散射特性的差异，提出了一种陨石坑喷出物范围的描绘方法，以获得陨石坑喷出物与月球背景风化层的边界。利用该方法提取了 6 个陨石坑的喷出物，并通过 SAR 图像目视解译得到的陨石坑喷出物范围进行了验证，该方法得到的陨石坑喷出物范围的准确率为 82% -95%。\[[pdf](http://GaofengShu.github.io/files/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SAR-Data.pdf), SCI, EI, IF=4.000, CAS-G3, JCR-Q1\]
