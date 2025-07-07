@@ -12,5 +12,5 @@ collection: portfolio
 
 3. J. Sun, X. Lu, **G. Shu\***, Z. Guo and N. Li, "[High-resolution rock abundance derivation of lunar cold spot craters based on RA-SAR model](https://gaofengshu.github.io/publication/2025-05-21-High-resolution-RA-derivation-of-lunar-cold-spot-craters)," in *Planetary and Space Science*, vol. 263, pp. 106138, 2025, doi: [10.1016/j.pss.2025.106138](https://doi.org/10.1016/j.pss.2025.106138).
 
-4. C. Li, P. Xu, X. Lu, Z. Guo, N. Li, and **G. Shu\***, "[STLDF-Net: a semantic segmentation network for lunar surface linear structure detection—a case study of lobate scarps](http://GaofengShu.github.io/files/2025-06-04-A-network-for-lunar-surface-linear-structure-detection.pdf)," in *Journal of Applied Remote Sensing*, vol. 19, no. 2, pp. 024511, 2025, doi: [10.1117/1.JRS.19.024511](https://doi.org/10.1117/1.JRS.19.024511).
+4. C. Li, P. Xu, X. Lu, Z. Guo, N. Li, and **G. Shu\***, "[STLDF-Net: a semantic segmentation network for lunar surface linear structure detection—a case study of lobate scarps](https://gaofengshu.github.io/publication/2025-06-04-A-network-for-lunar-surface-linear-structure-detection)," in *Journal of Applied Remote Sensing*, vol. 19, no. 2, pp. 024511, 2025, doi: [10.1117/1.JRS.19.024511](https://doi.org/10.1117/1.JRS.19.024511).
 
