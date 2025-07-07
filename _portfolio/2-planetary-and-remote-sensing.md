@@ -11,3 +11,6 @@ collection: portfolio
 2. Z. Song, Z. Huang, **G. Shu\***, Z. Guo and N. Li, "[Mapping the Range of Simple Fresh Lunar Crater Ejecta by Analyzing the Scattering Characteristics of the Lunar Regolith Using Mini-RF Data](https://gaofengshu.github.io/publication/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SAR-Data)," in *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, 2024, Art no. 4002605, doi:  [10.1109/LGRS.2024.3356201](https://doi.org/10.1109/LGRS.2024.3356201).
 
 3. J. Sun, X. Lu, **G. Shu\***, Z. Guo and N. Li, "[High-resolution rock abundance derivation of lunar cold spot craters based on RA-SAR model](https://gaofengshu.github.io/publication/2025-05-21-High-resolution-RA-derivation-of-lunar-cold-spot-craters)," in *Planetary and Space Science*, vol. 263, pp. 106138, 2025, doi: [10.1016/j.pss.2025.106138](https://doi.org/10.1016/j.pss.2025.106138).
+
+4. C. Li, P. Xu, X. Lu, Z. Guo, N. Li, and **G. Shu\***, "[STLDF-Net: a semantic segmentation network for lunar surface linear structure detection—a case study of lobate scarps," in *Journal of Applied Remote Sensing](http://GaofengShu.github.io/files/2025-06-04-A-network-for-lunar-surface-linear-structure-detection.pdf)*, vol. 19, no. 2, pp. 024511, 2025, doi: [10.1117/1.JRS.19.024511](https://doi.org/10.1117/1.JRS.19.024511).
+
