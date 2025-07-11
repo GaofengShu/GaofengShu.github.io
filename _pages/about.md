@@ -16,7 +16,8 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 
 ## Publication list
 
-<p style="font-size:70%">
+<font size="1">
+
 [24] X. Lu, J. Sun, **G. Shu\***, J. Zhao, N. Li, "Detecting the Lunar Wrinkle Ridges Through Deep Learning Based on DEM and Aspect Data," in *Research in Astronomy and Astrophysics*, vol. 25, no. 8, pp. 085016, Jul. **2025**, DOI: [10.1088/1674-4527/ade352](https://doi.org/10.1088/1674-4527/ade352). \[[PDF](http://GaofengShu.github.io/files/2025-07-02-Detecting-the-Lunar-Wrinkle-Ridges-Through-Deep-Learning.pdf)\]
 
 [23] C. Li, P. Xu, X. Lu, Z. Guo, N. Li, **G. Shu\***, "STLDF-Net: a semantic segmentation network for lunar surface linear structure detection—a case study of lobate scarps," in *Journal of Applied Remote Sensing*, vol. 19, no. 2, pp. 024511, Jun. **2025**, DOI: [10.1117/1.JRS.19.024511](https://doi.org/10.1117/1.JRS.19.024511). \[[PDF](http://GaofengShu.github.io/files/2025-06-04-A-network-for-lunar-surface-linear-structure-detection.pdf)\]
@@ -66,7 +67,7 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 
 [1] **Gaofeng Shu**, Wentao Wang, Da Liang, Yunkai Deng, Robert Wang\*, Heng Zhang, Ning Li. "Chirp Signal Transmission and Reception With Orbital Angular Momentum Multiplexing", <i>IEEE Antennas and Wireless Propagation Letters</i>, vol. 18, no. 5, pp. 986-990, May **2019**. DOI: [10.1109/LAWP.2019.2906996](https://doi.org/10.1109/LAWP.2019.2906996). \[[PDF](http://GaofengShu.github.io/files/2019-05-03-Chirp-Signal-TR-with-OAM-Multiplexing.pdf)\]
 
-</p>
+</font>
 
 
 # For more infomation
