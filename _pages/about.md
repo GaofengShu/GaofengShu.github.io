@@ -16,6 +16,7 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 
 ## Publication list
 
+<span style="font-size:60%">
 [24] X. Lu, J. Sun, **G. Shu\***, J. Zhao, N. Li, "Detecting the Lunar Wrinkle Ridges Through Deep Learning Based on DEM and Aspect Data," in *Research in Astronomy and Astrophysics*, vol. 25, no. 8, pp. 085016, Jul. **2025**, DOI: [10.1088/1674-4527/ade352](https://doi.org/10.1088/1674-4527/ade352). \[[PDF](http://GaofengShu.github.io/files/2025-07-02-Detecting-the-Lunar-Wrinkle-Ridges-Through-Deep-Learning.pdf)\]
 
 [23] C. Li, P. Xu, X. Lu, Z. Guo, N. Li, **G. Shu\***, "STLDF-Net: a semantic segmentation network for lunar surface linear structure detection—a case study of lobate scarps," in *Journal of Applied Remote Sensing*, vol. 19, no. 2, pp. 024511, Jun. **2025**, DOI: [10.1117/1.JRS.19.024511](https://doi.org/10.1117/1.JRS.19.024511). \[[PDF](http://GaofengShu.github.io/files/2025-06-04-A-network-for-lunar-surface-linear-structure-detection.pdf)\]
@@ -31,9 +32,9 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 
 [18] Zan Wang, Zhengwei Guo, **Gaofeng Shu**, Ning Li\*, "Radar Jamming Recognition:Models, Methods, and Prospects", *Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 18, pp. 3315-3343, Dec. **2024**, DOI: [10.1109/JSTARS.2024.3522951](https://doi.org/10.1109/JSTARS.2024.3522951).
 
-[17] Z. Song, Z. Huang, **G. Shu**, Z. Guo, N. Li, "Mapping the Range of Simple Fresh Lunar Crater Ejecta by Analyzing the Scattering Characteristics of the Lunar Regolith Using Mini-RF Data", *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, Jan. **2024**, Art no. 4002605, DOI: [10.1109/LGRS.2024.3356201](https://doi.org/10.1109/LGRS.2024.3356201). \[[PDF](http://GaofengShu.github.io/files/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SAR-Data.pdf)\]
+[17] Z. Song, Z. Huang, **G. Shu\***, Z. Guo, N. Li, "Mapping the Range of Simple Fresh Lunar Crater Ejecta by Analyzing the Scattering Characteristics of the Lunar Regolith Using Mini-RF Data", *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, Jan. **2024**, Art no. 4002605, DOI: [10.1109/LGRS.2024.3356201](https://doi.org/10.1109/LGRS.2024.3356201). \[[PDF](http://GaofengShu.github.io/files/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SAR-Data.pdf)\]
 
-[16] Z. Huang, Z. Song, **G. Shu**, Y. Huang, N. Li, "Removing the Effect of Lunar Topography on Mini-RF SAR Polarimetric Parameters Through DEM Data", *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, Dec. **2023**, Art no. 4001005, DOI: [10.1109/LGRS.2023.3343116](https://doi.org/10.1109/LGRS.2023.3343116). \[[PDF](http://GaofengShu.github.io/files/2023-12-14-Removing-Lunar-Topography-on-SAR-Parameters-Using-DEM.pdf)\]
+[16] Z. Huang, Z. Song, **G. Shu\***, Y. Huang, N. Li, "Removing the Effect of Lunar Topography on Mini-RF SAR Polarimetric Parameters Through DEM Data", *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, Dec. **2023**, Art no. 4001005, DOI: [10.1109/LGRS.2023.3343116](https://doi.org/10.1109/LGRS.2023.3343116). \[[PDF](http://GaofengShu.github.io/files/2023-12-14-Removing-Lunar-Topography-on-SAR-Parameters-Using-DEM.pdf)\]
 
 [15] **舒高峰**, 刘明月, 李宁\*. 采用改进特征子空间投影的SAR脉冲式直达波干扰抑制方法[J]. *电子与信息学报*, **2024**, 46(4):1382-1390. DOI: [10.11999/JEIT230665](https://doi.org/10.11999/JEIT230665). \[[PDF](http://GaofengShu.github.io/files/2023-12-07-采用改进特征子空间投影的SAR脉冲式直达波干扰抑制方法.pdf)\]
 
@@ -64,8 +65,7 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 [2] **Gaofeng Shu**, Nan Wang, Wentao Wang, Yunkai Deng, Yongwei Zhang, Heng Zhang, Ning Li, Robert Wang\*, "A Novel Vortex Synthetic Aperture Radar Imaging System: Decreasing the Pulse Repetition Frequency Without Increasing the Antenna Aperture", *IEEE Transactions on Geoscience, Remote Sensing*, vol. 60, pp. 986-990, Art no. 5203014, Mar. **2022**. DOI: [10.1109/TGRS.2021.3053650](https://doi.org/10.1109/TGRS.2021.3053650). \[[PDF](http://GaofengShu.github.io/files/2021-03-02-Vortex-SAR-Imaging-Decreasing-PRF.pdf)\]
 
 [1] **Gaofeng Shu**, Wentao Wang, Da Liang, Yunkai Deng, Robert Wang\*, Heng Zhang, Ning Li. "Chirp Signal Transmission and Reception With Orbital Angular Momentum Multiplexing", <i>IEEE Antennas and Wireless Propagation Letters</i>, vol. 18, no. 5, pp. 986-990, May **2019**. DOI: [10.1109/LAWP.2019.2906996](https://doi.org/10.1109/LAWP.2019.2906996). \[[PDF](http://GaofengShu.github.io/files/2019-05-03-Chirp-Signal-TR-with-OAM-Multiplexing.pdf)\]
-
-
+</span>
 
 
 # For more infomation
