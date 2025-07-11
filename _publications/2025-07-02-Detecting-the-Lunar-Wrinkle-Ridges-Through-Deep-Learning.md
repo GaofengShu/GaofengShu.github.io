@@ -2,7 +2,7 @@
 title: "Detecting the Lunar Wrinkle Ridges Through Deep Learning Based on DEM and Aspect Data"
 collection: publications
 permalink: /publication/2025-07-02-Detecting-the-Lunar-Wrinkle-Ridges-Through-Deep-Learning
-excerpt: 'A Dual-Branch Ridge Detection Network (DBR-Net) based on a dual-branch architecture and an Attention Complementary Feature Fusion module to address the issue of insufficient lunar wrinkle ridge features is proposed. \[[pdf](http://GaofengShu.github.io/files/2025-07-02-Detecting-the-Lunar-Wrinkle-Ridges-Through-Deep-Learning.pdf)\]'
+excerpt: 'A Dual-Branch Ridge Detection Network (DBR-Net) based on a dual-branch architecture and an Attention Complementary Feature Fusion module to address the issue of insufficient lunar wrinkle ridge features is proposed. \[[PDF](http://GaofengShu.github.io/files/2025-07-02-Detecting-the-Lunar-Wrinkle-Ridges-Through-Deep-Learning.pdf)\]'
 date: 2025-07-02
 venue: 'Research in Astronomy and Astrophysics'
 paperurl:
@@ -17,7 +17,7 @@ Lunar wrinkle ridges are an important stress geological structure on the Moon, w
 
 Recommended citation:
 
-X. Lu, J. Sun, **G. Shu**, J. Zhao, and N. Li. , "Detecting the Lunar Wrinkle Ridges Through Deep Learning Based on DEM and Aspect Data," in *Research in Astronomy and Astrophysics*, vol. 25, no. 8, pp. 085016, 2025, doi: [10.1088/1674-4527/ade352](https://doi.org/10.1088/1674-4527/ade352).
+X. Lu, J. Sun, **G. Shu**, J. Zhao, N. Li, "Detecting the Lunar Wrinkle Ridges Through Deep Learning Based on DEM and Aspect Data," in *Research in Astronomy and Astrophysics*, vol. 25, no. 8, pp. 085016, Jul. 2025, DOI: [10.1088/1674-4527/ade352](https://doi.org/10.1088/1674-4527/ade352).
 {: .notice}
 
 bibtex: 

@@ -2,7 +2,7 @@
 title: "STLDF-Net: a semantic segmentation network for lunar surface linear structure detection—a case study of lobate scarps"
 collection: publications
 permalink: /publication/2025-06-04-A-network-for-lunar-surface-linear-structure-detection
-excerpt: 'A semantic segmentation-based automatic detection network for lunar surface linear structure is proposed, which is based on Swin Transformer for semantic segmentation and integrates three modules— long-connection Swin Transformer residual block, deformable pyramid pooling module, and feature pyramid and aggregation network. \[[pdf](http://GaofengShu.github.io/files/2025-06-04-A-network-for-lunar-surface-linear-structure-detection.pdf)\]'
+excerpt: 'A semantic segmentation-based automatic detection network for lunar surface linear structure is proposed, which is based on Swin Transformer for semantic segmentation and integrates three modules— long-connection Swin Transformer residual block, deformable pyramid pooling module, and feature pyramid and aggregation network. \[[PDF](http://GaofengShu.github.io/files/2025-06-04-A-network-for-lunar-surface-linear-structure-detection.pdf)\]'
 date: 2025-06-04
 venue: 'Journal of Applied Remote Sensing'
 paperurl:
@@ -17,7 +17,7 @@ The lunar surface is characterized by numerous linear structures. Investigating 
 
 Recommended citation:
 
-C. Li, P. Xu, X. Lu, Z. Guo, N. Li, and **G. Shu**, "STLDF-Net: a semantic segmentation network for lunar surface linear structure detection—a case study of lobate scarps," in *Journal of Applied Remote Sensing*, vol. 19, no. 2, pp. 024511, 2025, doi: [10.1117/1.JRS.19.024511](https://doi.org/10.1117/1.JRS.19.024511).
+C. Li, P. Xu, X. Lu, Z. Guo, N. Li, **G. Shu**, "STLDF-Net: a semantic segmentation network for lunar surface linear structure detection—a case study of lobate scarps," in *Journal of Applied Remote Sensing*, vol. 19, no. 2, pp. 024511, Jun. 2025, doi: [10.1117/1.JRS.19.024511](https://doi.org/10.1117/1.JRS.19.024511).
 {: .notice}
 
 bibtex: 

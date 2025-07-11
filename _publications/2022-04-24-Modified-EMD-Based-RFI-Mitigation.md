@@ -18,7 +18,7 @@ citation: 'N. Li, B. Chen, Z. Lv and <b>G. Shu</b>. &quot;A modified EMD method 
 
 Recommended citation:
 
-N. Li, B. Chen, Z. Lv and **G. Shu**, "A modified EMD method for detecting and mitigating narrow-band RFI in SAR data," in *Remote Sensing Letters*, vol. 13, no. 3, pp. 643-650, doi: [10.1080/2150704X.2022.2065894](https://doi.org/10.1080/2150704X.2022.2065894).
+N. Li, B. Chen, Z. Lv and **G. Shu**, "A modified EMD method for detecting and mitigating narrow-band RFI in SAR data," in *Remote Sensing Letters*, vol. 13, no. 3, pp. 643-650, 2022. doi: [10.1080/2150704X.2022.2065894](https://doi.org/10.1080/2150704X.2022.2065894).
 {: .notice}
 
 bibtex: 

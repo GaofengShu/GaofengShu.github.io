@@ -19,7 +19,7 @@ citation: '<b>G. Shu</b>, J. Chang, J. Lu, Q. Wang and N. Li. &quot;A Novel Meth
 
 Recommended citation:
 
-**G. Shu**, J. Chang, J. Lu, Q. Wang and N. Li., "A Novel Method for SAR Ship Detection Based on Eigensubspace Projection," *Remote Sensing*, vol. 14, no. 14, pp. 3441, 2022, , doi: [10.3390/rs14143441](10.3390/rs14143441).
+**G. Shu**, J. Chang, J. Lu, Q. Wang and N. Li., "A Novel Method for SAR Ship Detection Based on Eigensubspace Projection," *Remote Sensing*, vol. 14, no. 14, pp. 3441, 2022, doi: [10.3390/rs14143441](https://doi.org/10.3390/rs14143441).
 {: .notice}
 
 bibtex: 

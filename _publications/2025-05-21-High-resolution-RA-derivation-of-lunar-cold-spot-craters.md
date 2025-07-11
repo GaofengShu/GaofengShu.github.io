@@ -2,7 +2,7 @@
 title: "High-resolution rock abundance derivation of lunar cold spot craters based on RA-SAR model"
 collection: publications
 permalink: /publication/2025-05-21-High-resolution-RA-derivation-of-lunar-cold-spot-craters
-excerpt: 'A high-resolution model is developed to derive rock abundance from Mini-RF SAR and optical data of lunar cold spot craters. \[[pdf](http://GaofengShu.github.io/files/2025-05-21-High-resolution-RA-derivation-of-lunar-cold-spot-craters.pdf)\]'
+excerpt: 'A high-resolution model is developed to derive rock abundance from Mini-RF SAR and optical data of lunar cold spot craters. \[[PDF](http://GaofengShu.github.io/files/2025-05-21-High-resolution-RA-derivation-of-lunar-cold-spot-craters.pdf)\]'
 date: 2025-05-21
 venue: 'Planetary and Space Science'
 paperurl:
@@ -17,7 +17,7 @@ The distribution of rock abundance (RA) on the lunar surface plays a pivotal rol
 
 Recommended citation:
 
-J. Sun, X. Lu, **G. Shu**, Z. Guo and N. Li, "High-resolution rock abundance derivation of lunar cold spot craters based on RA-SAR model," in *Planetary and Space Science*, vol. 263, pp. 106138, 2025, doi: [10.1016/j.pss.2025.106138](https://doi.org/10.1016/j.pss.2025.106138).
+J. Sun, X. Lu, **G. Shu**, Z. Guo, N. Li, "High-resolution rock abundance derivation of lunar cold spot craters based on RA-SAR model," *Planetary and Space Science*, vol. 263, pp. 106138, May 2025, DOI: [10.1016/j.pss.2025.106138](https://doi.org/10.1016/j.pss.2025.106138).
 {: .notice}
 
 bibtex: 

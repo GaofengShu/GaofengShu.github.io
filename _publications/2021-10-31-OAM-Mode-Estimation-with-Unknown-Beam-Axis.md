@@ -17,7 +17,7 @@ citation: '<b>Gaofeng Shu</b>, Bingxu Chen and Ning Li. &quot;An Orbital Angular
 
 Recommended citation:
 
-**G. Shu**, B. Chen and N. Li, "An Orbital Angular Momentum Mode Estimation Method with an Unknown Beam Axis," *2021 IEEE Sensors*, Virtual, Online, Australia, 2021, pp. 1-4, doi: [10.1109/SENSORS47087.2021.9639834](10.1109/SENSORS47087.2021.9639834).
+**G. Shu**, B. Chen and N. Li, "An Orbital Angular Momentum Mode Estimation Method with an Unknown Beam Axis," *2021 IEEE Sensors*, Virtual, Online, Australia, 2021, pp. 1-4, doi: [10.1109/SENSORS47087.2021.9639834](https://doi.org/10.1109/SENSORS47087.2021.9639834).
 {: .notice}
 
 bibtex: 

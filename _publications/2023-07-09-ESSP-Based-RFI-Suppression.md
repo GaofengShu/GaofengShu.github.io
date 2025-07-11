@@ -17,7 +17,7 @@ citation: 'Mingyue Liu, <b>Gaofeng Shu</b> and Ning Li. &quot;SAR pulse radio fr
 
 Recommended citation:
 
-M. Liu, **G. Shu** and N. Li, "SAR pulse radio frequency interference suppression based on modified eigen subspace projection," *International Conference on Remote Sensing, Mapping, and Geographic Systems (RSMG 2023)*, Kaifeng, China, 2021, pp. 128151F, doi: [10.1117/12.3010351](10.1117/12.3010351).
+M. Liu, **G. Shu** and N. Li, "SAR pulse radio frequency interference suppression based on modified eigen subspace projection," *International Conference on Remote Sensing, Mapping, and Geographic Systems (RSMG 2023)*, Kaifeng, China, 2023, pp. 128151F, doi: [10.1117/12.3010351](https://doi.org/10.1117/12.3010351).
 {: .notice}
 
 bibtex: 

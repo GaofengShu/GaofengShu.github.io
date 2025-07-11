@@ -18,7 +18,7 @@ citation: 'X. Pan, H. Zhang and <b>G. Shu</b>. &quot;Robust Phase Bias Estimatio
 
 Recommended citation:
 
-X. Pan, H. Zhang and **G. Shu**, "Robust Phase Bias Estimation Method for Azimuth Multi-Channel HRWS SAR System Based on Maximum Modified Kurtosis," *Electronics*, vol. 11, no. 22, pp. 3821, 2022, , doi: [10.3390/electronics11223821](10.3390/electronics11223821).
+X. Pan, H. Zhang and **G. Shu**, "Robust Phase Bias Estimation Method for Azimuth Multi-Channel HRWS SAR System Based on Maximum Modified Kurtosis," *Electronics*, vol. 11, no. 22, pp. 3821, 2022, doi: [10.3390/electronics11223821](https://doi.org/10.3390/electronics11223821).
 {: .notice}
 
 bibtex: 
