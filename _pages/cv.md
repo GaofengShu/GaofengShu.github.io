@@ -77,13 +77,13 @@ redirect_from:
 | 2024 - 2027 | 袁亚豪            | 硕士  | 名义   |                                                                                                                    |      |      |
 | 2024 - 2027 | 王怡童            | 硕士  | 实际   |                                                                                                                    |      |      |
 | 2024 - 2027 | 高　源            | 硕士  | 名义   |                                                                                                                    |      |      |
-| 2023 - 2026 | 张致正            | 硕士  | 名义   |                                                                                                                    |      |      |
+| 2023 - 2026 | 张致正            | 硕士  | 名义   | [\[1\]](https://ieeexplore.ieee.org/document/10959716)  |      |      |
 | 2023 - 2026 | 魏奕鑫            | 硕士  | 实际   |                                                                                                                    |      |      |
 | 2023 - 2026 | 孙羽丰            | 硕士  | 名义   |                                                                                                                    |      |      |
-| 2023 - 2026 | 李辰亚            | 硕士  | 实际   |                                                                                                                    |      |      |
-| 2023 - 2026 | 郭致远            | 硕士  | 实际   |                                                                                                                    |      |      |
-| 2022 - 2025 | 孙佳成            | 硕士  | 实际   |                                                                                                                    |      |      |
-| 2022 - 2025 | 路　炘            | 硕士  | 实际   |                                                                                                                    |      |      |
+| 2023 - 2026 | 李辰亚            | 硕士  | 实际   | [\[1\]](https://gaofengshu.github.io/publication/2025-06-04-A-network-for-lunar-surface-linear-structure-detection)  |      |      |
+| 2023 - 2026 | 郭致远            | 硕士  | 实际   |   |      |      |
+| 2022 - 2025 | 孙佳成            | 硕士  | 实际   |  [\[1\]](https://gaofengshu.github.io/publication/2025-05-21-High-resolution-RA-derivation-of-lunar-cold-spot-craters)  |      |      |
+| 2022 - 2025 | 路　炘            | 硕士  | 实际   | [\[1\]](https://gaofengshu.github.io/publication/2025-07-02-Detecting-the-Lunar-Wrinkle-Ridges-Through-Deep-Learning)  |      |      |
 | 2021 - 2024 | 宋照博            | 硕士  | 实际   | [\[1\]](https://gaofengshu.github.io/publication/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SAR-Data)   | 基于遥感数据的月球陨石坑形态检测方法研究 |      |
 | 2021 - 2024 | 刘明月            | 硕士  | 协助   | [\[1\]](https://gaofengshu.github.io/publication/2023-07-09-ESSP-Based-RFI-Suppression)[\[2\]](https://gaofengshu.github.io/publication/2023-12-07-SAR-PDWI-Suppression-Using-Improved-ESSP) | 星载SAR脉冲式直达波干扰检测与抑制方法 |      |
 | 2021 - 2024 | 黄展翅            | 硕士  | 实际   | [\[1\]](https://gaofengshu.github.io/publication/2023-12-14-Removing-Lunar-Topography-on-SAR-Parameters-Using-DEM) | 基于月球数字高程模型的Mini-RF数据地形校正方法研究 |      |
