@@ -12,14 +12,16 @@ I received the B.S. degree in electromagnetic wave propagation and antenna from 
 
 # Research intresting
 
-Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-Li-101)'s laboratory, conducting research related to [vortex electromagnetic wave radar](https://gaofengshu.github.io/portfolio/vortex-electromagnetic-wave-radar/), [SAR jamming and anti-jamming](https://gaofengshu.github.io/portfolio/SAR-jamming-and-anti-jamming/), and [planetary and remote sensing](https://gaofengshu.github.io/portfolio/planetary-and-remote-sensing/). I have published 16 papers as the first author or corresponding author, and 8 papers as a co-author. To view a complete list of my publications, please click on [publications](https://gaofengshu.github.io/publications/).
+Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-Li-101)'s laboratory, conducting research related to [vortex electromagnetic wave radar](https://gaofengshu.github.io/portfolio/vortex-electromagnetic-wave-radar/), [SAR jamming and anti-jamming](https://gaofengshu.github.io/portfolio/SAR-jamming-and-anti-jamming/), and [planetary and remote sensing](https://gaofengshu.github.io/portfolio/planetary-and-remote-sensing/). I have published 16 papers as the first author or corresponding author, and 9 papers as a co-author. To view a complete list of my publications, please click on [publications](https://gaofengshu.github.io/publications/).
 
 ## Publication list
 
 
-[24] X. Lu, J. Sun, **G. Shu\***, J. Zhao, N. Li, "Detecting the Lunar Wrinkle Ridges Through Deep Learning Based on DEM and Aspect Data," *Research in Astronomy and Astrophysics*, vol. 25, no. 8, pp. 085016, Jul. **2025**, DOI: [10.1088/1674-4527/ade352](https://doi.org/10.1088/1674-4527/ade352). \[[PDF](http://GaofengShu.github.io/files/2025-07-02-Detecting-the-Lunar-Wrinkle-Ridges-Through-Deep-Learning.pdf)\]
+[25] X. Lu, J. Sun, **G. Shu\***, J. Zhao, N. Li, "Detecting the Lunar Wrinkle Ridges Through Deep Learning Based on DEM and Aspect Data," *Research in Astronomy and Astrophysics*, vol. 25, no. 8, pp. 085016, Jul. **2025**, DOI: [10.1088/1674-4527/ade352](https://doi.org/10.1088/1674-4527/ade352). \[[PDF](http://GaofengShu.github.io/files/2025-07-02-Detecting-the-Lunar-Wrinkle-Ridges-Through-Deep-Learning.pdf)\]
 
-[23] C. Li, P. Xu, X. Lu, Z. Guo, N. Li, **G. Shu\***, "STLDF-Net: a semantic segmentation network for lunar surface linear structure detection—a case study of lobate scarps," *Journal of Applied Remote Sensing*, vol. 19, no. 2, pp. 024511, Jun. **2025**, DOI: [10.1117/1.JRS.19.024511](https://doi.org/10.1117/1.JRS.19.024511). \[[PDF](http://GaofengShu.github.io/files/2025-06-04-A-network-for-lunar-surface-linear-structure-detection.pdf)\]
+[24] C. Li, P. Xu, X. Lu, Z. Guo, N. Li, **G. Shu\***, "STLDF-Net: a semantic segmentation network for lunar surface linear structure detection—a case study of lobate scarps," *Journal of Applied Remote Sensing*, vol. 19, no. 2, pp. 024511, Jun. **2025**, DOI: [10.1117/1.JRS.19.024511](https://doi.org/10.1117/1.JRS.19.024511). \[[PDF](http://GaofengShu.github.io/files/2025-06-04-A-network-for-lunar-surface-linear-structure-detection.pdf)\]
+
+[23] 李宁\*, 王赞, **舒高峰**, 张庭玮, 郭拯危. 孪生网络辅助下多域特征融合的雷达有源干扰识别方法[J]. *电子与信息学报*, **2025**, 47(6):1837-1849. DOI: [10.11999/JEIT240797](https://doi.org/10.11999/JEIT240797).
 
 [22] J. Sun, X. Lu, **G. Shu\***, Z. Guo, N. Li, "High-resolution rock abundance derivation of lunar cold spot craters based on RA-SAR model," *Planetary and Space Science*, vol. 263, pp. 106138, May **2025**, DOI: [10.1016/j.pss.2025.106138](https://doi.org/10.1016/j.pss.2025.106138). \[[PDF](http://GaofengShu.github.io/files/2025-05-21-High-resolution-RA-derivation-of-lunar-cold-spot-craters.pdf)\]
 
