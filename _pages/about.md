@@ -34,9 +34,9 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 
 [17] Z. Song, Z. Huang, **G. Shu\***, Z. Guo, N. Li, "Mapping the Range of Simple Fresh Lunar Crater Ejecta by Analyzing the Scattering Characteristics of the Lunar Regolith Using Mini-RF Data", *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, Jan. **2024**, Art no. 4002605, DOI: [10.1109/LGRS.2024.3356201](https://doi.org/10.1109/LGRS.2024.3356201). \[[PDF](http://GaofengShu.github.io/files/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SAR-Data.pdf)\]
 
-[16] Z. Huang, Z. Song, **G. Shu\***, Y. Huang, N. Li, "Removing the Effect of Lunar Topography on Mini-RF SAR Polarimetric Parameters Through DEM Data", *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, Dec. **2023**, Art no. 4001005, DOI: [10.1109/LGRS.2023.3343116](https://doi.org/10.1109/LGRS.2023.3343116). \[[PDF](http://GaofengShu.github.io/files/2023-12-14-Removing-Lunar-Topography-on-SAR-Parameters-Using-DEM.pdf)\]
+[16] **舒高峰**, 刘明月, 李宁\*. 采用改进特征子空间投影的SAR脉冲式直达波干扰抑制方法[J]. *电子与信息学报*, **2024**, 46(4):1382-1390. DOI: [10.11999/JEIT230665](https://doi.org/10.11999/JEIT230665). \[[PDF](http://GaofengShu.github.io/files/2023-12-07-采用改进特征子空间投影的SAR脉冲式直达波干扰抑制方法.pdf)\]
 
-[15] **舒高峰**, 刘明月, 李宁\*. 采用改进特征子空间投影的SAR脉冲式直达波干扰抑制方法[J]. *电子与信息学报*, **2024**, 46(4):1382-1390. DOI: [10.11999/JEIT230665](https://doi.org/10.11999/JEIT230665). \[[PDF](http://GaofengShu.github.io/files/2023-12-07-采用改进特征子空间投影的SAR脉冲式直达波干扰抑制方法.pdf)\]
+[15] Z. Huang, Z. Song, **G. Shu\***, Y. Huang, N. Li, "Removing the Effect of Lunar Topography on Mini-RF SAR Polarimetric Parameters Through DEM Data", *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, Dec. **2023**, Art no. 4001005, DOI: [10.1109/LGRS.2023.3343116](https://doi.org/10.1109/LGRS.2023.3343116). \[[PDF](http://GaofengShu.github.io/files/2023-12-14-Removing-Lunar-Topography-on-SAR-Parameters-Using-DEM.pdf)\]
 
 [14] Y. Sun, H. Zhang, B. Chen, **G. Shu\***, N. Li, "The Application of SSC for RFI Suppression in SLC Images of Sentinel-1 IW Mode", *IEEE Geoscience and Remote Sensing Letters*, vol. 20, pp. 1-5, Oct. **2023**, Art no. 4013005, DOI: [10.1109/LGRS.2024.3356201](https://doi.org/10.1109/LGRS.2024.3356201). \[[PDF](http://GaofengShu.github.io/files/2023-10-16-SSC-in-Sentinel1-IW-Mode-Images.pdf)\]
 
@@ -50,7 +50,7 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 
 [9] D. Cheng, Z. Liu, Z. Guo, **G. Shu\***, N. Li, "A Repeater-Type SAR Deceptive Jamming Method Based on Joint Encoding of Amplitude and Phase in the Intra-Pulse and Inter-Pulse", *Remote Sensing*, vol. 14, no. 18, pp. 4597, Sep. **2022**, doi: [10.3390/rs14184597](https://doi.org/10.3390/rs14184597). \[[PDF](http://GaofengShu.github.io/files/2023-09-14-A-SAR-Deceptive-Jamming-Method-Based-on-CAPII.pdf)\]
 
-[8] B. Chen, Z. Lv, P. Lu, **G. Shu**, Y. Huang\*, N. Li, "Extension and Evaluation of SSC for Removing Wideband RFI in SLC SAR Images", *Remote Sensing*, vol. 14, no. 17, pp. 4294, Apr. **2022**. DOI: [10.3390/rs14174294](https://doi.org/10.3390/rs14174294).
+[8] B. Chen, Z. Lv, P. Lu, **G. Shu**, Y. Huang\*, N. Li, "Extension and Evaluation of SSC for Removing Wideband RFI in SLC SAR Images", *Remote Sensing*, vol. 14, no. 17, pp. 4294, Aug. **2022**. DOI: [10.3390/rs14174294](https://doi.org/10.3390/rs14174294).
 
 [7] **G. Shu**, J. Chang, J. Lu, Q. Wang, N. Li\*, "A Novel Method for SAR Ship Detection Based on Eigensubspace Projection", *Remote Sensing*, vol. 14, no. 14, pp. 3441, Jul. **2022**, DOI: [10.3390/rs14143441](https://doi.org/10.3390/rs14143441). \[[PDF](http://GaofengShu.github.io/files/2022-07-12-ESSP-Based-Ship-Detection.pdf)\]
 
@@ -62,7 +62,7 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 
 [3] **G. Shu**, W. Wang, H. Zhang, "A Compensation Method Based on Electromagnetic Vortex Synthetic Aperture Radar Imaging", *EUSAR 2021; 13th European Conference on Synthetic Aperture Radar*, online, **2021**, pp. 361-365, url: [https://ieeexplore.ieee.org/document/9472565](https://ieeexplore.ieee.org/document/9472565). \[[PDF](http://GaofengShu.github.io/files/2021-03-29-Vortex-SAR-Imaging-Algorithm.pdf)\]
 
-[2] **G. Shu**, N. Wang, W. Wang, Y. Deng, Y. Zhang, H. Zhang, N. Li, R. Wang\*, "A Novel Vortex Synthetic Aperture Radar Imaging System: Decreasing the Pulse Repetition Frequency Without Increasing the Antenna Aperture", *IEEE Transactions on Geoscience, Remote Sensing*, vol. 60, pp. 986-990, Art no. 5203014, Mar. **2022**. DOI: [10.1109/TGRS.2021.3053650](https://doi.org/10.1109/TGRS.2021.3053650). \[[PDF](http://GaofengShu.github.io/files/2021-03-02-Vortex-SAR-Imaging-Decreasing-PRF.pdf)\]
+[2] **G. Shu**, N. Wang, W. Wang, Y. Deng, Y. Zhang, H. Zhang, N. Li, R. Wang\*, "A Novel Vortex Synthetic Aperture Radar Imaging System: Decreasing the Pulse Repetition Frequency Without Increasing the Antenna Aperture", *IEEE Transactions on Geoscience, Remote Sensing*, vol. 60, pp. 986-990, Art no. 5203014, Mar. **2021**. DOI: [10.1109/TGRS.2021.3053650](https://doi.org/10.1109/TGRS.2021.3053650). \[[PDF](http://GaofengShu.github.io/files/2021-03-02-Vortex-SAR-Imaging-Decreasing-PRF.pdf)\]
 
 [1] **G. Shu**, W. Wang, D. Liang, Y. Deng, R. Wang\*, H. Zhang, N. Li, "Chirp Signal Transmission and Reception With Orbital Angular Momentum Multiplexing", *IEEE Antennas and Wireless Propagation Letters*, vol. 18, no. 5, pp. 986-990, May **2019**. DOI: [10.1109/LAWP.2019.2906996](https://doi.org/10.1109/LAWP.2019.2906996). \[[PDF](http://GaofengShu.github.io/files/2019-05-03-Chirp-Signal-TR-with-OAM-Multiplexing.pdf)\]
 
