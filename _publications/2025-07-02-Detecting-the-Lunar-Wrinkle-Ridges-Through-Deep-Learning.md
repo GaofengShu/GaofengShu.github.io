@@ -17,7 +17,7 @@ Lunar wrinkle ridges are an important stress geological structure on the Moon, w
 
 Recommended citation:
 
-X. Lu, J. Sun, **G. Shu**, J. Zhao, N. Li, "Detecting the Lunar Wrinkle Ridges Through Deep Learning Based on DEM and Aspect Data," in *Research in Astronomy and Astrophysics*, vol. 25, no. 8, pp. 085016, Jul. 2025, DOI: [10.1088/1674-4527/ade352](https://doi.org/10.1088/1674-4527/ade352).
+X. Lu, J. Sun, **G. Shu**, J. Zhao, and N. Li, "Detecting the Lunar Wrinkle Ridges Through Deep Learning Based on DEM and Aspect Data," in *Research in Astronomy and Astrophysics*, vol. 25, no. 8, pp. 085016, Jul. 2025, DOI: [10.1088/1674-4527/ade352](https://doi.org/10.1088/1674-4527/ade352).
 {: .notice}
 
 bibtex: 

@@ -12,10 +12,11 @@ I received the B.S. degree in electromagnetic wave propagation and antenna from 
 
 # Research intresting
 
-Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-Li-101)'s laboratory, conducting research related to [vortex electromagnetic wave radar](https://gaofengshu.github.io/portfolio/1-vortex-electromagnetic-wave-radar/), [SAR jamming and anti-jamming](https://gaofengshu.github.io/portfolio/3-SAR-jamming-and-anti-jamming/), and [planetary and remote sensing](https://gaofengshu.github.io/portfolio/2-planetary-and-remote-sensing/). I have published 16 papers as the first author or corresponding author, and 9 papers as a co-author. To view a complete list of my publications, please click on [publications](https://gaofengshu.github.io/publications/).
+Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-Li-101)'s laboratory, conducting research related to [vortex electromagnetic wave radar](https://gaofengshu.github.io/portfolio/1-vortex-electromagnetic-wave-radar/), [SAR jamming and anti-jamming](https://gaofengshu.github.io/portfolio/3-SAR-jamming-and-anti-jamming/), and [planetary and remote sensing](https://gaofengshu.github.io/portfolio/2-planetary-and-remote-sensing/). I have published 17 papers as the first author or corresponding author, and 9 papers as a co-author. To view a complete list of my publications, please click on [publications](https://gaofengshu.github.io/publications/).
 
 ## Publication list
 
+[26] Y. Wei, **G. Shu\***, N. Li, "Improving Orbital Angular Momentum Mode Utilization With Mode Switching Periodically in Radar Forward-Looking Imaging," *IEEE Signal Processing Letters*, vol. 32, pp. 3102-3106, Jul. **2025**, DOI: [10.1109/LSP.2025.3593646](https://doi.org/10.1109/LSP.2025.3593646). \[[PDF](http://GaofengShu.github.io/files/2025-07-29-Improving-OAM-Mode-Utilization-With-Mode-Switching-Periodically.pdf)\]
 
 [25] X. Lu, J. Sun, **G. Shu\***, J. Zhao, N. Li, "Detecting the Lunar Wrinkle Ridges Through Deep Learning Based on DEM and Aspect Data," *Research in Astronomy and Astrophysics*, vol. 25, no. 8, pp. 085016, Jul. **2025**, DOI: [10.1088/1674-4527/ade352](https://doi.org/10.1088/1674-4527/ade352). \[[PDF](http://GaofengShu.github.io/files/2025-07-02-Detecting-the-Lunar-Wrinkle-Ridges-Through-Deep-Learning.pdf)\]
 

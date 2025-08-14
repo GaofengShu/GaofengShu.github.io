@@ -17,7 +17,7 @@ The lunar surface is characterized by numerous linear structures. Investigating 
 
 Recommended citation:
 
-C. Li, P. Xu, X. Lu, Z. Guo, N. Li, **G. Shu**, "STLDF-Net: a semantic segmentation network for lunar surface linear structure detection—a case study of lobate scarps," in *Journal of Applied Remote Sensing*, vol. 19, no. 2, pp. 024511, Jun. 2025, doi: [10.1117/1.JRS.19.024511](https://doi.org/10.1117/1.JRS.19.024511).
+C. Li, P. Xu, X. Lu, Z. Guo, N. Li, and **G. Shu**, "STLDF-Net: a semantic segmentation network for lunar surface linear structure detection—a case study of lobate scarps," in *Journal of Applied Remote Sensing*, vol. 19, no. 2, pp. 024511, Jun. 2025, doi: [10.1117/1.JRS.19.024511](https://doi.org/10.1117/1.JRS.19.024511).
 {: .notice}
 
 bibtex: 

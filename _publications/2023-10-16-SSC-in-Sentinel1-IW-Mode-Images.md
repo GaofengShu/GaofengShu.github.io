@@ -6,7 +6,7 @@ excerpt: 'A SSC method to protect useful signals while suppressing RFI in Sentin
 date: 2023-10-16
 venue: 'IEEE Geoscience and Remote Sensing Letters'
 paperurl: 
-citation: 'Y. Sun, H. Zhang, B. Chen, <b>G. Shu</b> and N. Li. &quot;The Application of SSC for RFI Suppression in SLC Images of Sentinel-1 IW Mode&quot;. <i>IEEE Geoscience and Remote Sensing Letters</i>. 2023, 20, Art no. 4013005.'
+citation: 'Y. Sun, H. Zhang, B. Chen, <b>G. Shu</b>, and N. Li. &quot;The Application of SSC for RFI Suppression in SLC Images of Sentinel-1 IW Mode&quot;. <i>IEEE Geoscience and Remote Sensing Letters</i>. 2023, 20, Art no. 4013005.'
 ---
 通过对 Sentinel-1 IW 模式下产生 SLC 数据的成像算法的理论分析，发现方位后处理中的相位补偿步骤破坏了频谱的对称性，不能满足 SSC 方法应用的基础，导致 RFI 抑制性能较差。在此基础上，我们首先对受 RFI 污染的 SLC 图像进行反相位补偿，恢复频谱对称性。第二步是子带分割和子图像能量对消。这种方法在抑制 RFI 的同时有效地保护了有用的信号，对 Sentinel-1 SLC 图像的进一步应用具有重要意义。仿真和实测实验验证了该方法的有效性。\[[pdf](http://GaofengShu.github.io/files/2023-10-16-SSC-in-Sentinel1-IW-Mode-Images.pdf), SCI, EI, IF=4.000, CAS-G3, JCR-Q1\]
 
@@ -17,7 +17,7 @@ citation: 'Y. Sun, H. Zhang, B. Chen, <b>G. Shu</b> and N. Li. &quot;The Applica
 
 Recommended citation:
 
-Y. Sun, H. Zhang, B. Chen, **G. Shu** and N. Li, "The Application of SSC for RFI Suppression in SLC Images of Sentinel-1 IW Mode," in *IEEE Geoscience and Remote Sensing Letters*, vol. 20, pp. 1-5, 2023, Art no. 4013005, doi: [10.1109/LGRS.2024.3356201](https://doi.org/10.1109/LGRS.2024.3356201).
+Y. Sun, H. Zhang, B. Chen, **G. Shu**, and N. Li, "The Application of SSC for RFI Suppression in SLC Images of Sentinel-1 IW Mode," in *IEEE Geoscience and Remote Sensing Letters*, vol. 20, pp. 1-5, 2023, Art no. 4013005, doi: [10.1109/LGRS.2024.3356201](https://doi.org/10.1109/LGRS.2024.3356201).
 {: .notice}
 
 bibtex: 
