@@ -10,8 +10,8 @@ citation: 'C. Li, P. Xu, X. Lu, Z. Guo, N. Li, and <b>G. Shu</b>. &quot;STLDF-Ne
 ---
 The lunar surface is characterized by numerous linear structures. Investigating these linear features contributes to our understanding of the Moon's cooling processes and the evolutionary history of its crust. Currently, most methods for extracting linear structures from remote sensing images of the lunar surface rely on manual visual interpretation and semi-supervised learning. This leads to inefficient extraction of these structures from the vast amount of lunar remote sensing data. We take the typical lunar linear structure—lobate scarps—as a representative case and propose a semantic segmentation-based automatic detection algorithm. The proposed model, based on Swin Transformer for semantic segmentation, integrates three modules— long-connection Swin Transformer residual block, deformable pyramid pooling module, and feature pyramid and aggregation network—to significantly enhance the network's capability in extracting features of lobate scarps. The model is named STLDF-Net. Compared with other networks, STLDF-Net achieved the highest accuracy on our custom dataset, with an intersection over union of 95.71% and an F1-score of 97.81%. We applied the trained model to detect lobate scarps in the Aitken crater region and the Ansgarius crater region, successfully mapping their spatial distribution in these areas. In addition, we transferred the model to detect lobate scarps on Mars, obtaining favorable results and demonstrating the model's strong generalization capabilities. Finally, we conducted experiments and discussions on the model complexity of STLDF-Net, verifying its applicability for lunar lobate scarp segmentation tasks. \[[pdf](http://GaofengShu.github.io/files/2025-06-04-A-network-for-lunar-surface-linear-structure-detection.pdf), SCI, EI, IF=1.400, CAS-G4, JCR-Q3\]
 
-*[SCI]: Accession Number: WOS:xxx
-*[EI]: Accession Number: xxx
+*[SCI]: Accession Number: WOS:001523119200028
+*[EI]: Accession Number: 20252818750335
 
 <img src='/images/pubsImages/LobateScarpsDetectionResults.png'>
 
