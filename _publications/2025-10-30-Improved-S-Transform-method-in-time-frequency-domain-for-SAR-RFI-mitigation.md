@@ -2,7 +2,7 @@
 title: "Improved S-Transform method in time-frequency domain for SAR RFI mitigation"
 collection: publications
 permalink: /publication/2022-04-24-Modified-EMD-Based-RFI-Mitigation
-excerpt: 'A modified EMD method to address the loss of useful signals while mitigating RFI via traditional EMD-based method. \[[pdf](http://GaofengShu.github.io/files/2025-10-30-Improved-S-Transform-method-in-time-frequency-domain-for-SAR-RFI-mitigation.pdf)\]'
+excerpt: 'An SAR RFI mitigation method that can better adapt to abrupt changes in the signal, achieving improved time-frequency resolution and concentration is proposed. \[[pdf](http://GaofengShu.github.io/files/2025-10-30-Improved-S-Transform-method-in-time-frequency-domain-for-SAR-RFI-mitigation.pdf)\]'
 date: 2025-10-30
 venue: 'Remote Sensing Letters'
 paperurl: 
