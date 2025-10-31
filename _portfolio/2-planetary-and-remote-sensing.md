@@ -16,3 +16,4 @@ collection: portfolio
 
 5. X. Lu, J. Sun, **G. Shu\***, J. Zhao, and N. Li. , "[Detecting the Lunar Wrinkle Ridges Through Deep Learning Based on DEM and Aspect Data](https://gaofengshu.github.io/publication/2025-07-02-Detecting-the-Lunar-Wrinkle-Ridges-Through-Deep-Learning)," in *Research in Astronomy and Astrophysics*, vol. 25, no. 8, pp. 085016, 2025, doi: [10.1088/1674-4527/ade352](https://doi.org/10.1088/1674-4527/ade352).
 
+6. C. Li, **G. Shu\***, X. Lu, J. Zhao, and N. Li, "[Lunar Multitype Geological Structure Recognition Based on Cross-View Constraints](https://gaofengshu.github.io/publication/2025-09-29-Lunar-Multitype-Geological-Structure-Recognition-Based-on-Cross-View-Constraints)," in *IEEE Geoscience and Remote Sensing Letters*, vol. 22, pp. 1-5, 2025, Art no. 6013905, doi: [10.1109/LGRS.2025.3615657](https://doi.org/10.1109/LGRS.2025.3615657).
