@@ -12,11 +12,13 @@ I received the B.S. degree in electromagnetic wave propagation and antenna from 
 
 # Research intresting
 
-Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-Li-101)'s laboratory, conducting research related to [vortex electromagnetic wave radar](https://gaofengshu.github.io/portfolio/1-vortex-electromagnetic-wave-radar/), [SAR jamming and anti-jamming](https://gaofengshu.github.io/portfolio/3-SAR-jamming-and-anti-jamming/), and [planetary and remote sensing](https://gaofengshu.github.io/portfolio/2-planetary-and-remote-sensing/). I have published 19 papers as the first author or corresponding author, and 9 papers as a co-author. To view a complete list of my publications, please click on [publications](https://gaofengshu.github.io/publications/).
+Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-Li-101)'s laboratory, conducting research related to [vortex electromagnetic wave radar](https://gaofengshu.github.io/portfolio/1-vortex-electromagnetic-wave-radar/), [SAR jamming and anti-jamming](https://gaofengshu.github.io/portfolio/3-SAR-jamming-and-anti-jamming/), and [planetary and remote sensing](https://gaofengshu.github.io/portfolio/2-planetary-and-remote-sensing/). I have published 19 papers as the first author or corresponding author, and 10 papers as a co-author. To view a complete list of my publications, please click on [publications](https://gaofengshu.github.io/publications/).
 
 ## Publication list
 
-[28] W. Fan, P. Xu, X. Hu, **G. Shu\***, N. Li, "Improved S-Transform method in time-frequency domain for SAR RFI mitigation," *Remote Sensing Letters*, vol. 16, no. 12, pp. 1414-1422, Oct. **2025**. DOI: [10.1080/2150704X.2025.2579805](https://doi.org/10.1080/2150704X.2025.2579805).\[[PDF](http://GaofengShu.github.io/files/2025-10-30-Improved-S-Transform-method-in-time-frequency-domain-for-SAR-RFI-mitigation.pdf)\]
+[29] W. Fan, P. Xu, X. Hu, **G. Shu\***, N. Li, "Improved S-Transform method in time-frequency domain for SAR RFI mitigation," *Remote Sensing Letters*, vol. 16, no. 12, pp. 1414-1422, Oct. **2025**, DOI: [10.1080/2150704X.2025.2579805](https://doi.org/10.1080/2150704X.2025.2579805). \[[PDF](http://GaofengShu.github.io/files/2025-10-30-Improved-S-Transform-method-in-time-frequency-domain-for-SAR-RFI-mitigation.pdf)\]
+
+[28] Z. Zhang, Y. Huang, **G. Shu**, L. Wu, N. Li\*, "ASSC-RBSF: Enhanced RBSF via Joint Adaptive Subband Spectral Cancellation for RFI Artifact Detection and Mitigation in SLC SAR Images," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 63, pp. 1-23, Oct. **2025**, Art No. 5221223, DOI: [10.1109/TGRS.2025.3622970](https://doi.org/10.1109/TGRS.2025.3622970).
 
 [27] C. Li, **G. Shu\***, X. Lu, J. Zhao, N. Li, "Lunar Multitype Geological Structure Recognition Based on Cross-View Constraints," *IEEE Geoscience and Remote Sensing Letters*, vol. 22, pp. 1-5, Sep. **2025**, Art no. 6013905, DOI: [10.1109/LGRS.2025.3615657](https://doi.org/10.1109/LGRS.2025.3615657). \[[PDF](http://GaofengShu.github.io/files/2025-09-29-Lunar-Multitype-Geological-Structure-Recognition-Based-on-Cross-View-Constraints.pdf)\]
 
@@ -61,7 +63,7 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 
 [7] **G. Shu**, J. Chang, J. Lu, Q. Wang, N. Li\*, "A Novel Method for SAR Ship Detection Based on Eigensubspace Projection", *Remote Sensing*, vol. 14, no. 14, pp. 3441, Jul. **2022**, DOI: [10.3390/rs14143441](https://doi.org/10.3390/rs14143441). \[[PDF](http://GaofengShu.github.io/files/2022-07-12-ESSP-Based-Ship-Detection.pdf)\]
 
-[6] N. Li, B. Chen, Z. Lv, **G. Shu\***, "A modified EMD method for detecting and mitigating narrow-band RFI in SAR data", *Remote Sensing Letters*, vol. 13, no. 3, pp. 643-650, Apr. **2022**. DOI: [10.1080/2150704X.2022.2065894](https://doi.org/10.1080/2150704X.2022.2065894). \[[PDF](http://GaofengShu.github.io/files/2021-10-31-OAM-Mode-Estimation-with-Unknown-Beam-Axis.pdf)\]
+[6] N. Li, B. Chen, Z. Lv, **G. Shu\***, "A modified EMD method for detecting and mitigating narrow-band RFI in SAR data", *Remote Sensing Letters*, vol. 13, no. 3, pp. 643-650, Apr. **2022**, DOI: [10.1080/2150704X.2022.2065894](https://doi.org/10.1080/2150704X.2022.2065894). \[[PDF](http://GaofengShu.github.io/files/2021-10-31-OAM-Mode-Estimation-with-Unknown-Beam-Axis.pdf)\]
 
 [5] X. Liu, N. Li\*, **G. Shu**, L. Min, "Generation of High-Quality Spaceborne Interrupted FMCW SAR Images via Singular Value Threshold-Based Matrix Completion", *IEEE Geoscience and Remote Sensing Letters*, vol. 19, Art no. 4505905, Mar. **2022**. DOI: [10.1109/LGRS.2022.3157466](https://doi.org/10.1109/LGRS.2022.3157466).
 
