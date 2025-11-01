@@ -76,7 +76,7 @@ redirect_from:
 | 2024 - 2027 | 袁亚豪            | 硕士  | 名义   |                                                                                                                    |      |      |
 | 2024 - 2027 | 王怡童            | 硕士  | 实际   |                                                                                                                    |      |      |
 | 2024 - 2027 | 高　源            | 硕士  | 名义   |                                                                                                                    |      |      |
-| 2023 - 2026 | 张致正            | 硕士  | 名义   | [\[1\]](https://ieeexplore.ieee.org/document/10959716)  |      |      |
+| 2023 - 2026 | 张致正            | 硕士  | 名义   | [\[1\]](https://ieeexplore.ieee.org/document/10959716) [\[2\]](https://ieeexplore.ieee.org/document/11206536) |      |      |
 | 2023 - 2026 | 魏奕鑫            | 硕士  | 实际   | [\[1\]](https://gaofengshu.github.io/publication/2025-07-29-Improving-OAM-Mode-Utilization-With-Mode-Switching-Periodically)                                                                                                                   |      |      |
 | 2023 - 2026 | 孙羽丰            | 硕士  | 名义   |                                                                                                                    |      |      |
 | 2023 - 2026 | 李辰亚            | 硕士  | 实际   | [\[1\]](https://gaofengshu.github.io/publication/2025-06-04-A-network-for-lunar-surface-linear-structure-detection)  |      |      |
