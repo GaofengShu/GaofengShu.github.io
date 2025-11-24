@@ -10,8 +10,8 @@ citation: 'W. Fan, P. Xu, X. Hu, <b>G. Shu</b> and N. Li. &quot;Improved S-Trans
 ---
 With the rapid development of modern communication technology, synthetic aperture radar (SAR) is encountering increasingly severe radio frequency interference (RFI), which significantly affects signal processing and image interpretation. Traditional time-domain and frequency-domain mitigation methods are insufficient to effectively identify RFI characteristics in complex environments. Consequently, time-frequency transformation techniques, which integrate both time and frequency information, have become the key in addressing these issues，especially in wideband interference mitigation. The short-time Fourier transform (STFT) is commonly employed due to its simplicity and efficiency, yet it is limited by time-frequency resolution. While the S-transform achieves higher time-frequency resolution, its application in RFI mitigation is still limited by low execution efficiency and poor time-frequency concentration. To address these issues, an improved S-transform method in time-frequency domain for SAR RFI mitigation is proposed in this article. This method primarily focuses on the impact of time-frequency transformation itself on RFI mitigation. By optimizing the window parameters of the S-transform, it can better adapt to abrupt changes in the signal, achieving improved time-frequency resolution and concentration. The experimental results based on simulated and measured SAR data confirm the effectiveness and superiority of the proposed method.\[[pdf](http://GaofengShu.github.io/files/2025-10-30-Improved-S-Transform-method-in-time-frequency-domain-for-SAR-RFI-mitigation.pdf), SCI, EI, IF=xxx, CAS-G4, JCR-Q3\]
 
-*[SCI]: Accession Number: WOS:xxx
-*[EI]: Accession Number: xxx
+*[SCI]: Accession Number: WOS:001606479200001
+*[EI]: Accession Number: 20254519452742
 *[CAS-G4]: The 4th grade of journal ranking of the Chinese Academy of Sciences
 
 <img src='/images/pubsImages/ImprovedS-TransformMethod4RFIMitigation.jpg'>
