@@ -46,18 +46,11 @@ redirect_from:
 
 - 基于同心圆环阵列设计的涡旋电磁波雷达前视成像方法、系统、存储介质和电子设备, 发明专利, 2025, 专利号：CN202510032136.9, 第 3 发明人
 - 分布式平台逆合成孔径雷达对复杂运动舰船目标成像方法、系统、存储装置和电子设备, 发明专利, 2024, 专利号：CN202410595716.4, 第 3 发明人
-- 基于匹配滤波的星载合成孔径雷达散射波互干扰抑制方法、系统、存储介质与电子设备, 发明专利, 2024, 专利号：CN202411701363.8, 第 4 发明人
-- 联合时域和频域的弱能量脉冲式射频干扰两步检测方法、系统、存储介质和电子设备, 发明专利, 2024, 专利号：CN202410491400.0, 第 4 发明人
 - 基于时频分析的SAR宽带干扰信号检测与抑制方法, 发明专利, 2024, 专利号：CN202410618578.7, 第 3 发明人
 - 基于相位误差调制的方位多波束星载SAR自适应压制干扰方法、系统、存储介质和电子设备, 发明专利, 2024, 专利号：CN202410491540.8, 第 3 发明人
-- 基于动态阈值子空间投影的合成孔径雷达干扰抑制方法、系统、存储装置和电子设备, 发明专利, 2024, 专利号：CN202410527789.X, 第 4 发明人
-- 合成孔径雷达变脉冲重复频率抗方位转发干扰方法、系统、存储装置和电子设备, 发明专利, 2024, 专利号：CN202410527701.4, 第 4 发明人
 - 单航迹合成孔径雷达干扰源定位方法与装置, 发明专利, 2024, 专利号：CN202410577739.2, 第 3 发明人
 - 基于多干扰机运动调制的多通道SAR-GMTI欺骗干扰方法、系统、存储装置和电子设备, 发明专利, 2024, 专利号：CN202410969993.7, 第 3 发明人
-- 基于多域信息融合网络的雷达有源干扰识别方法、系统、存储装置和电子设备, 发明专利, 2024, 专利号：CN202410857768.4, 第 4 发明人
 - 基于合成孔径雷达影像的月球陨石坑溅射层检测方法、系统、存储介质及电子设备, 发明专利, 2023, 专利号：202311097408.0, 第 1 发明人
-- 一种星载SAR场景自适应压制干扰方法、系统、存储介质及电子设备, 发明专利, 2023, 专利号：202311079429.X, 第 4 发明人
-- 基于合成孔径雷达图像的高分辨率冬小麦产量估算方法、系统、存储介质及电子设备, 发明专利, 2023, 专利号：202311100613.8, 第 7 发明人
 - 含干扰合成孔径雷达图像筛选及干扰位置检测方法和系统, 发明专利, 2022, 专利号：202210314474.8, 第 2 发明人
 
 
@@ -77,16 +70,16 @@ redirect_from:
 | 2024 - 2027 | 袁亚豪            | 硕士  | 名义   |                                                                                                                    |      |      |
 | 2024 - 2027 | 王怡童            | 硕士  | 实际   |                                                                                                                    |      |      |
 | 2024 - 2027 | 高　源            | 硕士  | 名义   |                                                                                                                    |      |      |
-| 2023 - 2026 | 张致正            | 硕士  | 名义   | [\[1\]](https://ieeexplore.ieee.org/document/10959716) [\[2\]](https://ieeexplore.ieee.org/document/11206536) |      |      |
-| 2023 - 2026 | 魏奕鑫            | 硕士  | 实际   | [\[1\]](https://gaofengshu.github.io/publication/2025-07-29-Improving-OAM-Mode-Utilization-With-Mode-Switching-Periodically)                                                                                                                   |      |      |
+| 2023 - 2026 | 张致正            | 硕士  | 名义   | [\[21\]](https://ieeexplore.ieee.org/document/10959716) [\[29\]](https://ieeexplore.ieee.org/document/11206536) |      |      |
+| 2023 - 2026 | 魏奕鑫            | 硕士  | 实际   | [\[26\]](https://gaofengshu.github.io/publication/2025-07-29-Improving-OAM-Mode-Utilization-With-Mode-Switching-Periodically) [\[27\]](https://gaofengshu.github.io/publication/2025-09-23-Quasi-Vortex-Electromagnetic-Wave-Radar-Forward-Looking-Imaging)                                                                                                                   |      |      |
 | 2023 - 2026 | 孙羽丰            | 硕士  | 名义   |                                                                                                                    |      |      |
-| 2023 - 2026 | 李辰亚            | 硕士  | 实际   | [\[1\]](https://gaofengshu.github.io/publication/2025-06-04-A-network-for-lunar-surface-linear-structure-detection)  |      |      |
+| 2023 - 2026 | 李辰亚            | 硕士  | 实际   | [\[24\]](https://gaofengshu.github.io/publication/2025-06-04-A-network-for-lunar-surface-linear-structure-detection)  |      |      |
 | 2023 - 2026 | 郭致远            | 硕士  | 实际   |   |      |      |
-| 2022 - 2025 | 孙佳成            | 硕士  | 实际   |  [\[1\]](https://gaofengshu.github.io/publication/2025-05-21-High-resolution-RA-derivation-of-lunar-cold-spot-craters)  | 融合岩石丰度数据的月表陨石坑风化层厚度反演研究 |      |
-| 2022 - 2025 | 路　炘            | 硕士  | 实际   | [\[1\]](https://gaofengshu.github.io/publication/2025-07-02-Detecting-the-Lunar-Wrinkle-Ridges-Through-Deep-Learning) [\[2\]](https://gaofengshu.github.io/publication/2025-09-29-Lunar-Multitype-Geological-Structure-Recognition-Based-on-Cross-View-Constraints) | 基于遥感图像特征融合和跨视图约束的月表地质构造识别研究 |      |
-| 2021 - 2024 | 宋照博            | 硕士  | 实际   | [\[1\]](https://gaofengshu.github.io/publication/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SAR-Data)   | 基于遥感数据的月球陨石坑形态检测方法研究 |      |
-| 2021 - 2024 | 刘明月            | 硕士  | 协助   | [\[1\]](https://gaofengshu.github.io/publication/2023-07-09-ESSP-Based-RFI-Suppression)[\[2\]](https://gaofengshu.github.io/publication/2023-12-07-SAR-PDWI-Suppression-Using-Improved-ESSP) | 星载SAR脉冲式直达波干扰检测与抑制方法 |      |
-| 2021 - 2024 | 黄展翅            | 硕士  | 实际   | [\[1\]](https://gaofengshu.github.io/publication/2023-12-14-Removing-Lunar-Topography-on-SAR-Parameters-Using-DEM) | 基于月球数字高程模型的Mini-RF数据地形校正方法研究 |      |
+| 2022 - 2025 | 孙佳成            | 硕士  | 实际   |  [\[22\]](https://gaofengshu.github.io/publication/2025-05-21-High-resolution-RA-derivation-of-lunar-cold-spot-craters)  | 融合岩石丰度数据的月表陨石坑风化层厚度反演研究 |      |
+| 2022 - 2025 | 路　炘            | 硕士  | 实际   | [\[25\]](https://gaofengshu.github.io/publication/2025-07-02-Detecting-the-Lunar-Wrinkle-Ridges-Through-Deep-Learning) [\[28\]](https://gaofengshu.github.io/publication/2025-09-29-Lunar-Multitype-Geological-Structure-Recognition-Based-on-Cross-View-Constraints) | 基于遥感图像特征融合和跨视图约束的月表地质构造识别研究 |      |
+| 2021 - 2024 | 宋照博            | 硕士  | 实际   | [\[17\]](https://gaofengshu.github.io/publication/2024-01-19-Mapping-the-Lunar-Crater-Ejecta-in-Mini-RF-SAR-Data)   | 基于遥感数据的月球陨石坑形态检测方法研究 |      |
+| 2021 - 2024 | 刘明月            | 硕士  | 协助   | [\[13\]](https://gaofengshu.github.io/publication/2023-07-09-ESSP-Based-RFI-Suppression)[\[16\]](https://gaofengshu.github.io/publication/2023-12-07-SAR-PDWI-Suppression-Using-Improved-ESSP) | 星载SAR脉冲式直达波干扰检测与抑制方法 |      |
+| 2021 - 2024 | 黄展翅            | 硕士  | 实际   | [\[15\]](https://gaofengshu.github.io/publication/2023-12-14-Removing-Lunar-Topography-on-SAR-Parameters-Using-DEM) | 基于月球数字高程模型的Mini-RF数据地形校正方法研究 |      |
 
 *同一级按学生姓名拼音逆序排列。
 
