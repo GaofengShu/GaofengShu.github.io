@@ -12,7 +12,7 @@ citation: '<b>舒高峰</b>, 魏奕鑫, 李宁. 采用回波相位加权的准�
 
 *[EI]: Accession Number: xxxxxx
 
-<img src='/images/pubsImages/ResultsBetweenDifferentMethodAndSNR.jpg.jpg'>
+<img src='/images/pubsImages/ResultsBetweenDifferentMethodAndSNR.jpg'>
 
 Recommended citation:
 
