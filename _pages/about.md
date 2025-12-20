@@ -12,9 +12,13 @@ I received the B.S. degree in electromagnetic wave propagation and antenna from 
 
 # Research intresting
 
-Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-Li-101)'s laboratory, conducting research related to [vortex electromagnetic wave radar](https://gaofengshu.github.io/portfolio/1-vortex-electromagnetic-wave-radar/), [SAR jamming and anti-jamming](https://gaofengshu.github.io/portfolio/3-SAR-jamming-and-anti-jamming/), and [planetary and remote sensing](https://gaofengshu.github.io/portfolio/2-planetary-and-remote-sensing/). I have published 20 papers as the first author or corresponding author, and 10 papers as a co-author. To view a complete list of my publications, please click on [publications](https://gaofengshu.github.io/publications/).
+Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-Li-101)'s laboratory, conducting research related to [vortex electromagnetic wave radar](https://gaofengshu.github.io/portfolio/1-vortex-electromagnetic-wave-radar/), [SAR jamming and anti-jamming](https://gaofengshu.github.io/portfolio/3-SAR-jamming-and-anti-jamming/), and [planetary and remote sensing](https://gaofengshu.github.io/portfolio/2-planetary-and-remote-sensing/). I have published 21 papers as the first author or corresponding author, and 11 papers as a co-author. To view a complete list of my publications, please click on [publications](https://gaofengshu.github.io/publications/).
 
 ## Publication list
+
+[32] Z. Guo, Z. Song, C. Li, **G. Shu\***, N. Li, "An SSA–RF-based Lunar Surface Rock Abundance Retrieval Method Using Multi-source Remote Sensing Data," *Research in Astronomy and Astrophysics*, vol. 26, no. 2, pp. 025005, Jul. **2025**, DOI: [10.1088/1674-4527/ae2103](https://doi.org/10.1088/1674-4527/ae2103). \[[PDF](http://GaofengShu.github.io/files/2025-12-19-An-SSA-RF-based-Lunar-Surface-Rock-Aundance-Retrieval-Method.pdf)\]
+
+[31] L. Wang, H. Yang, **G. Shu**, N. Li\*, "2-D Precisely Controllable Smart Jamming Against SAR Based on Dual-Template Joint Modulation," *IEEE Transactions on Aerospace and Electronic Systems*, vol. xx, pp. 1-19, Dec. **2025**, Art No. xxxxxx, DOI: [10.1109/TAES.2025.3644285](https://doi.org/10.1109/TAES.2025.3644285).
 
 [30] W. Fan, P. Xu, X. Hu, **G. Shu\***, N. Li, "Improved S-Transform method in time-frequency domain for SAR RFI mitigation," *Remote Sensing Letters*, vol. 16, no. 12, pp. 1414-1422, Oct. **2025**, DOI: [10.1080/2150704X.2025.2579805](https://doi.org/10.1080/2150704X.2025.2579805). \[[PDF](http://GaofengShu.github.io/files/2025-10-30-Improved-S-Transform-method-in-time-frequency-domain-for-SAR-RFI-mitigation.pdf)\]
 
