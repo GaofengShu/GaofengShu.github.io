@@ -16,7 +16,7 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 
 ## Publication list
 
-[32] Z. Guo, Z. Song, C. Li, **G. Shu\***, N. Li, "An SSA–RF-based Lunar Surface Rock Abundance Retrieval Method Using Multi-source Remote Sensing Data," *Research in Astronomy and Astrophysics*, vol. 26, no. 2, pp. 025005, Jul. **2025**, DOI: [10.1088/1674-4527/ae2103](https://doi.org/10.1088/1674-4527/ae2103). \[[PDF](http://GaofengShu.github.io/files/2025-12-19-An-SSA-RF-based-Lunar-Surface-Rock-Aundance-Retrieval-Method.pdf)\]
+[32] Z. Guo, Z. Song, C. Li, **G. Shu\***, N. Li, "An SSA–RF-based Lunar Surface Rock Abundance Retrieval Method Using Multi-source Remote Sensing Data," *Research in Astronomy and Astrophysics*, vol. 26, no. 2, pp. 025005, Dec. **2025**, DOI: [10.1088/1674-4527/ae2103](https://doi.org/10.1088/1674-4527/ae2103). \[[PDF](http://GaofengShu.github.io/files/2025-12-19-An-SSA-RF-based-Lunar-Surface-Rock-Aundance-Retrieval-Method.pdf)\]
 
 [31] L. Wang, H. Yang, **G. Shu**, N. Li\*, "2-D Precisely Controllable Smart Jamming Against SAR Based on Dual-Template Joint Modulation," *IEEE Transactions on Aerospace and Electronic Systems*, vol. xx, pp. 1-19, Dec. **2025**, Art No. xxxxxx, DOI: [10.1109/TAES.2025.3644285](https://doi.org/10.1109/TAES.2025.3644285).
 
