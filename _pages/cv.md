@@ -82,7 +82,8 @@ redirect_from:
 | 2021 - 2024 | 黄展翅            | 硕士  | 实际   | [\[15\]](https://gaofengshu.github.io/publication/2023-12-14-Removing-Lunar-Topography-on-SAR-Parameters-Using-DEM) | 基于月球数字高程模型的Mini-RF数据地形校正方法研究 |      |
 
 *同一级按学生姓名拼音逆序排列。
-☥小论文编号为手写论文列表编号。
+
+☥小论文编号为[首页](https://gaofengshu.github.io/)论文列表编号。
 
 ## 学生获奖情况
 
