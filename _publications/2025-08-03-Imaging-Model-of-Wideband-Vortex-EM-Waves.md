@@ -1,7 +1,7 @@
 ---
 title: "Imaging Model of Wideband Vortex Electromagnetic Waves under Dispersion Effect"
 collection: publications
-permalink: /publication/2023-07-09-ESSP-Based-RFI-Suppression
+permalink: /publication/2025-08-03-Imaging-Model-of-Wideband-Vortex-EM-Waves
 excerpt: 'This paper derives the electromagnetic antenna pattern of wideband vortex electromagnetic waves and, based on this model, establishes a forward-imaging echo model. \[[pdf](http://GaofengShu.github.io/files/2025-08-03-Imaging-Model-of-Wideband-Vortex-EM-Waves.pdf)\]'
 date: 2023-07-09
 venue: 'IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium'
