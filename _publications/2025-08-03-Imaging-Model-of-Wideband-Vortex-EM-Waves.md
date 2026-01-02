@@ -3,7 +3,7 @@ title: "Imaging Model of Wideband Vortex Electromagnetic Waves under Dispersion 
 collection: publications
 permalink: /publication/2025-08-03-Imaging-Model-of-Wideband-Vortex-EM-Waves
 excerpt: 'This paper derives the electromagnetic antenna pattern of wideband vortex electromagnetic waves and, based on this model, establishes a forward-imaging echo model. \[[pdf](http://GaofengShu.github.io/files/2025-08-03-Imaging-Model-of-Wideband-Vortex-EM-Waves.pdf)\]'
-date: 2023-07-09
+date: 2025-08-03
 venue: 'IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium'
 paperurl: 
 citation: 'Yixin Wei, <b>Gaofeng Shu</b>, and Ning Li. &quot;Imaging Model of Wideband Vortex Electromagnetic Waves under Dispersion Effect&quot;. <i>IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium</i>. Brisbane, Australia, 2025.'
