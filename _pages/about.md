@@ -75,6 +75,7 @@ Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-L
 [J1] **G. Shu**, W. Wang, D. Liang, Y. Deng, R. Wang\*, H. Zhang, N. Li, "Chirp Signal Transmission and Reception With Orbital Angular Momentum Multiplexing", *IEEE Antennas and Wireless Propagation Letters*, vol. 18, no. 5, pp. 986-990, May **2019**. DOI: [10.1109/LAWP.2019.2906996](https://doi.org/10.1109/LAWP.2019.2906996). \[[PDF](http://GaofengShu.github.io/files/2019-05-03-Chirp-Signal-TR-with-OAM-Multiplexing.pdf)\]
 
 ### Conference publications
+[C7] Y. Wang, Y. Wei, **G. Shu\***, N. Li, "Mode Optimization for High-Resolution Electromagnetic Vortex Radar Sparse Imaging," *2026 China Aerospace Information Technology Conference (CAIT)*, Tongxiang, China, May **2026**, pp. 1-4, DOI: [10.1109/CAIT70489.2026.11553578](https://doi.org/10.1109/CAIT70489.2026.11553578). \[[PDF](http://GaofengShu.github.io/files/2026-05-08-Mode-Optimization-for-High-Resolution-Electromagnetic-Vortex-Radar-Sparse-Imaging.pdf)\]
 
 [C6] Z. Zhang, **G. Shu**, N. Li, D. Huang\*, "Screening and Artifact Detection of RFI Based on Time-Series SAR Images Using Change Detection Techniques," *IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium*, Brisbane, Australia, Aug. **2025**, pp. 8616-8619, DOI: [10.1109/IGARSS55030.2025.11242271](https://doi.org/10.1109/IGARSS55030.2025.11242271).
 
