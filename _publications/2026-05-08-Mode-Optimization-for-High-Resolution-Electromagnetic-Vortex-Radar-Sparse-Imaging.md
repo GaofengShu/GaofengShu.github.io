@@ -1,7 +1,7 @@
 ---
 title: "Mode Optimization for High-Resolution Electromagnetic Vortex Radar Sparse Imaging"
 collection: publications
-permalink: /publication/2026-05-08-Mode-Optimization-for-EM-Vortex-Radar-Sparse-Imaging
+permalink: /publication/2026-05-08-Mode-Optimization-for-High-Resolution-Electromagnetic-Vortex-Radar-Sparse-Imaging
 excerpt: 'This paper proposes an OAM mode selection strategy that minimizes matrix correlation to address the observation matrix's high mutual coherence caused by the spatial overlap of different mode beams. \[[pdf](http://GaofengShu.github.io/files/2026-05-08-Mode-Optimization-for-High-Resolution-Electromagnetic-Vortex-Radar-Sparse-Imaging.pdf)\]'
 date: 2026-05-08
 venue: '2026 China Aerospace Information Technology Conference (CAIT)'
