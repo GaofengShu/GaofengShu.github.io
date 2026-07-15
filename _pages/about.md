@@ -12,7 +12,7 @@ I received the B.S. degree in electromagnetic wave propagation and antenna from 
 
 # Research intresting
 
-Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-Li-101)'s laboratory, conducting research related to [vortex electromagnetic wave radar](https://gaofengshu.github.io/portfolio/1-vortex-electromagnetic-wave-radar/), [SAR jamming and anti-jamming](https://gaofengshu.github.io/portfolio/3-SAR-jamming-and-anti-jamming/), and [planetary and remote sensing](https://gaofengshu.github.io/portfolio/2-planetary-and-remote-sensing/). I have published 22 papers as the first author or corresponding author, and 13 papers as a co-author. To view a complete list of my publications, please click on [publications](https://gaofengshu.github.io/publications/).
+Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-Li-101)'s laboratory, conducting research related to [vortex electromagnetic wave radar](https://gaofengshu.github.io/portfolio/1-vortex-electromagnetic-wave-radar/), [SAR jamming and anti-jamming](https://gaofengshu.github.io/portfolio/3-SAR-jamming-and-anti-jamming/), and [planetary and remote sensing](https://gaofengshu.github.io/portfolio/2-planetary-and-remote-sensing/). I have published 22 papers (Click [publications](https://gaofengshu.github.io/publications/) for more information) as the first author or corresponding author, and 13 papers as a co-author.The complete list of my publications is as follows.
 
 ## Publication list
 ### Journal publications
