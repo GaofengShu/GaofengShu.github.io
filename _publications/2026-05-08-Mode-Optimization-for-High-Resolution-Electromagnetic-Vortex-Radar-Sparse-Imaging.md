@@ -3,7 +3,7 @@ title: "Mode Optimization for High-Resolution Electromagnetic Vortex Radar Spars
 collection: publications
 permalink: /publication/2026-05-08-Mode-Optimization-for-High-Resolution-Electromagnetic-Vortex-Radar-Sparse-Imaging
 excerpt: 'This paper derives the electromagnetic antenna pattern of wideband vortex electromagnetic waves and, based on this model, establishes a forward-imaging echo model. \[[pdf](http://GaofengShu.github.io/files/2025-08-03-Imaging-Model-of-Wideband-Vortex-EM-Waves.pdf)\]'
-date: 2025-08-03
+date: 2026-05-08
 venue: '2026 China Aerospace Information Technology Conference (CAIT)'
 paperurl: 
 citation: 'Yixin Wei, <b>Gaofeng Shu</b>, and Ning Li. &quot;Imaging Model of Wideband Vortex Electromagnetic Waves under Dispersion Effect&quot;. <i>IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium</i>. Brisbane, Australia, 2025.'
