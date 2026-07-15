@@ -1,7 +1,7 @@
 ---
 title: "Mode Optimization for High-Resolution Electromagnetic Vortex Radar Sparse Imaging"
 collection: publications
-permalink: /publication/2025-08-03-Imaging-Model-of-Wideband-Vortex-EM-Waves
+permalink: /publication/2026-05-08-Mode-Optimization-for-High-Resolution-Electromagnetic-Vortex-Radar-Sparse-Imaging
 excerpt: 'This paper derives the electromagnetic antenna pattern of wideband vortex electromagnetic waves and, based on this model, establishes a forward-imaging echo model. \[[pdf](http://GaofengShu.github.io/files/2025-08-03-Imaging-Model-of-Wideband-Vortex-EM-Waves.pdf)\]'
 date: 2025-08-03
 venue: 'IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium'
