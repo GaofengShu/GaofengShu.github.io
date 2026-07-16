@@ -12,11 +12,13 @@ I received the B.S. degree in electromagnetic wave propagation and antenna from 
 
 # Research intresting
 
-Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-Li-101)'s laboratory, conducting research related to [vortex electromagnetic wave radar](https://gaofengshu.github.io/portfolio/1-vortex-electromagnetic-wave-radar/), [SAR jamming and anti-jamming](https://gaofengshu.github.io/portfolio/3-SAR-jamming-and-anti-jamming/), and [planetary and remote sensing](https://gaofengshu.github.io/portfolio/2-planetary-and-remote-sensing/). I have published 22 papers (Click [publications](https://gaofengshu.github.io/publications/) for more information) as the first author or corresponding author, and 13 papers as a co-author.The complete list of my publications is as follows.
+Currently, I am working in [Ning Li](https://www.researchgate.net/profile/Ning-Li-101)'s laboratory, conducting research related to [vortex electromagnetic wave radar](https://gaofengshu.github.io/portfolio/1-vortex-electromagnetic-wave-radar/), [SAR jamming and anti-jamming](https://gaofengshu.github.io/portfolio/3-SAR-jamming-and-anti-jamming/), and [planetary and remote sensing](https://gaofengshu.github.io/portfolio/2-planetary-and-remote-sensing/). I have published 23 papers (Click [publications](https://gaofengshu.github.io/publications/) for more information) as the first author or corresponding author, and 14 papers as a co-author.The complete list of my publications is as follows.
 
 ## Publication list
 ### Journal publications
-[J29] Y. Sun, Z. Fu, X. Hu, **G. Shu**, Y. Huang\*, N. Li, "Localization of ground-based radiation sources in squint mode using RCMC," *Remote Sensing Letters*, vol. 17, no. 6, pp. 688-698, Jun. **2026**, DOI: [10.1080/2150704X.2026.2661867](https://doi.org/10.1080/2150704X.2026.2661867). 
+[J30] Y. Sun, Z. Fu, X. Hu, **G. Shu**, Y. Huang\*, N. Li, "Localization of ground-based radiation sources in squint mode using RCMC," *Remote Sensing Letters*, vol. 17, no. 6, pp. 688-698, Jun. **2026**, DOI: [10.1080/2150704X.2026.2661867](https://doi.org/10.1080/2150704X.2026.2661867). 
+
+[J29] 刘梦莉, **舒高峰**,李宁\*. 基于多干扰机协同调制的多通道SAR-GMTI欺骗干扰方法[J]. *系统工程与电子技术*, **2026**, 48(2):490-502. DOI: [10.12305/j.issn.1001-506X.2026.02.11](https://doi.org/10.12305/j.issn.1001-506X.2026.02.11).
 
 [J28] Z. Guo, Z. Song, C. Li, **G. Shu\***, N. Li, "An SSA–RF-based Lunar Surface Rock Abundance Retrieval Method Using Multi-source Remote Sensing Data," *Research in Astronomy and Astrophysics*, vol. 26, no. 2, pp. 025005, Dec. **2025**, DOI: [10.1088/1674-4527/ae2103](https://doi.org/10.1088/1674-4527/ae2103). \[[PDF](http://GaofengShu.github.io/files/2025-12-19-An-SSA-RF-based-Lunar-Surface-Rock-Aundance-Retrieval-Method.pdf)\]
 
