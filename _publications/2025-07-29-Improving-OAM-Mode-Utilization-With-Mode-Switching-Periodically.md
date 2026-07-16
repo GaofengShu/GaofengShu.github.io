@@ -2,7 +2,7 @@
 title: "Improving Orbital Angular Momentum Mode Utilization With Mode Switching Periodically in Radar Forward-Looking Imaging"
 collection: publications
 permalink: /publication/2025-07-29-Improving-OAM-Mode-Utilization-With-Mode-Switching-Periodically
-excerpt: 'This letter proposes an OAM mode switching method based on the characteristics of the intersection of the adjacent-order Bessel functions to improve the OAM mode utilization and anti-noise ability for radar forward-looking imaging. \[[PDF](http://GaofengShu.github.io/files/2025-07-29-Improving-OAM-Mode-Utilization-With-Mode-Switching-Periodically.pdf)\]
+excerpt: 'This letter proposes an OAM mode switching method based on the characteristics of the intersection of the adjacent-order Bessel functions to improve the OAM mode utilization and anti-noise ability for radar forward-looking imaging. \[[PDF](http://GaofengShu.github.io/files/2025-07-29-Improving-OAM-Mode-Utilization-With-Mode-Switching-Periodically.pdf)\]'
 date: 2025-07-29
 venue: 'IEEE Signal Processing Letters'
 paperurl:
