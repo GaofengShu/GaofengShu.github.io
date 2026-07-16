@@ -2,7 +2,7 @@
 title: "采用回波相位加权的准涡旋电磁波雷达前视成像"
 collection: publications
 permalink: /publication/2025-09-23-Quasi-Vortex-Electromagnetic-Wave-Radar-Forward-Looking-Imaging
-excerpt: 利用QCA的非对称性，形成主瓣集中的涡旋电磁波，进而进行雷达前视成像，成像处理采用回波相位加权形成多模态回波。 \[[pdf](http://GaofengShu.github.io/files/2025-09-23-采用回波相位加权的准涡旋电磁波雷达前视成像.pdf)\]'
+excerpt: '利用QCA的非对称性，形成主瓣集中的涡旋电磁波，进而进行雷达前视成像，成像处理采用回波相位加权形成多模态回波。 \[[pdf](http://GaofengShu.github.io/files/2025-09-23-采用回波相位加权的准涡旋电磁波雷达前视成像.pdf)\]'
 date: 2025-09-23
 venue: '电子与信息学报'
 paperurl: 
